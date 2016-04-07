@@ -1,0 +1,964 @@
+ID,County,Map_Unit_Symbol,Map_Unit_Name,Soil_Name,Acres_in_AOI,Percent_of_AOI,Soil_ID
+1,Alachua,14,Pomona sand,Pomona sand,57,415.90,9.30%,FL00101062
+2,Alachua,3,Arredondo fine sand, 0 to 5 percent slopes,Arredondo fine sand,54,523.10,8.80%,FL00101084
+3,Alachua,8,Millhopper sand, 0 to 5 percent slopes,Millhopper sand,52,194.60,8.40%,FL00101063
+4,Alachua,2,Candler fine sand, 0 to 5 percent slopes,Candler fine sand,25,046.10,4.00%,FL00101103
+5,Alachua,50,Sparr fine sand,Sparr fine sand,21,440.50,3.50%,FL00101058
+6,Alachua,21,Newnan sand,Newnan sand,20,631.40,3.30%,FL00101078
+7,Alachua,17,Wauchula sand,Wauchula sand,18,053.60,2.90%,FL00101080
+8,Alachua,30,Kendrick sand, 2 to 5 percent slopes,Kendrick sand,16,053.10,2.60%,FL00101065
+9,Alachua,49,Lochloosa fine sand, 0 to 2 percent slopes,Lochloosa fine sand,15,633.50,2.50%,FL00101100
+10,Alachua,28,Chipley sand,Chipley sand,14,886.60,2.40%,FL00101068
+11,Alachua,39,Bonneau fine sand, 2 to 5 percent slopes,Bonneau fine sand,14,984.90,2.40%,FL00101067
+12,Alachua,46,Jonesville complex, 0 to 5 percent slopes,Jonesville complex,,,FL00101075
+13,Alachua,,Cadillac complex, 0 to 5 percent slopes,Cadillac complex,,,FL00101076
+14,Alachua,13,Pelham sand,Pelham sand,9,208.00,1.50%,FL00101071
+15,Alachua,53,Shenks muck,Shenks muck,6,309.40,1.00%,FL00101085
+16,Alachua,33,Norfolk loamy fine sand, 2 to 5 percent slopes,Norfolk loamy fine sand,5,305.50,0.90%,FL00101064
+17,Alachua,51,Plummer fine sand,Plummer fine sand,5,733.90,0.90%,FL00101101
+18,Alachua,52,Ledwith muck,Ledwith muck,5,482.20,0.90%,FL00101086
+19,Alachua,5,Fort Meade fine sand, 0 to 5 percent slopes,Fort Meade fine sand,4,673.90,0.80%,FL00101074
+20,Alachua,7,Kanapaha sand, 0 to 5 percent slopes,Kanapaha sand,5,260.70,0.80%,FL00101099
+21,Alachua,56,Wauberg sand,Wauberg sand,5,071.80,0.80%,FL00101088
+22,Alachua,48,Myakka sand,Myakka sand,4,328.80,0.70%,FL00101091
+23,Alachua,55,Lake sand, 0 to 5 percent slopes,Lake sand,4,066.50,0.70%,FL00101089
+24,Alachua,23,Mulat sand,Mulat sand,3,812.20,0.60%,FL00101083
+25,Alachua,59,Pottsburg sand,Pottsburg sand,2,928.80,0.50%,FL00101090
+26,Alachua,31,Blichton sand, 0 to 2 percent slopes,Blichton sand,2,427.10,0.40%,FL00101098
+27,Alachua,32,Bivans sand, 2 to 5 percent slopes,Bivans sand,2,234.30,0.40%,FL00101097
+28,Alachua,47,Candler- 0 to 5 percent slopes,Candler,1,762.70,0.30%,FL00101102
+29,Baker,47,Sapelo fine sand,Sapelo fine sand,27,571.90,7.30%,FL00302017
+30,Baker,23,Leon sand,Leon sand,23,205.80,6.20%,FL00302001
+31,Baker,33,Olustee complex,Olustee complex,14,667.50,3.90%,FL00302003
+32,Baker,32,Ocilla fine sand, 0 to 3 percent slopes,Ocilla fine sand,12,742.20,3.40%,FL00302006
+33,Baker,43,Pottsburg sand,Pottsburg sand,6,625.80,1.80%,FL00302020
+34,Baker,22,Leefield fine sand, 0 to 5 percent slopes,Leefield fine sand,6,489.80,1.70%,FL00302005
+35,Baker,11,Boulogne sand,Boulogne sand,3,722.70,1.00%,FL00302021
+36,Bay,30,Pottsburg sand,Pottsburg sand,49,249.70,8.70%,FL00503010
+37,Bay,13,Leon sand,Leon sand,39,938.20,7.10%,FL00503003
+38,Bay,25,Hurricane sand,Hurricane sand,37,197.50,6.60%,FL00503001
+39,Bay,9,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,34,092.50,6.00%,FL00503019
+40,Bay,1,Albany sand, 0 to 2 percent slopes,Albany sand,28,801.00,5.10%,FL00503013
+41,Bay,20,Foxworth sand, 0 to 5 percent slopes,Foxworth sand,18,932.20,3.40%,FL00503016
+42,Bay,32,Plummer sand,Plummer sand,17,348.60,3.10%,FL00503012
+43,Bay,23,Chipley sand, 0 to 5 percent slopes,Chipley sand,12,747.20,2.30%,FL00503018
+44,Bay,26,Centenary sand, 0 to 5 percent slopes,Centenary sand,10,854.10,1.90%,FL00503002
+45,Bay,28,Allanton sand,Allanton sand,8,888.40,1.60%,FL00503014
+46,Bay,3,Blanton fine sand, 0 to 5 percent slopes,Blanton fine sand,7,356.80,1.30%,FL00503017
+47,Bay,50,Pickney fine sand,Pickney fine sand,7,296.10,1.30%,FL00503011
+48,Bay,52,Bayvi loamy sand,Bayvi loamy sand,7,213.70,1.30%,FL00503008
+49,Bay,15,Stilson sand, 0 to 5 percent slopes,Stilson sand,6,341.20,1.10%,FL00503015
+50,Bay,27,Mandarin sand,Mandarin sand,4,978.00,0.90%,FL00503006
+51,Bay,45,Kureb sand, 0 to 5 percent slopes,Kureb sand,4,984.70,0.90%,FL00503005
+52,Bay,42,Resota fine sand, 0 to 5 percent slopes,Resota fine sand,4,560.60,0.80%,FL00503004
+53,Bay,41,Dirego muck,Dirego muck,2,023.70,0.40%,FL00503007
+54,Bay,18,Troup sand, 5 to 8 percent slopes,Troup sand,451.60,0.10%,FL00503020
+55,Bradford,4,Mascotte sand,Mascotte sand,11,886.10,6.20%,FL00704009
+56,Bradford,15,Pottsburg sand,Pottsburg sand,4,599.40,2.40%,FL00704010
+57,Bradford,19,Leon sand,Leon sand,3,790.10,2.00%,FL00704008
+58,Bradford,20,Grifton frequently flooded,Grifton ,3,619.30,1.90%,FL00704003
+59,Bradford,11,Allanton loamy sand,Allanton loamy sand,3,542.90,1.80%,FL00704005
+60,Bradford,3,Ocilla fine sand, 0 to 5 percent slopes,Ocilla fine sand,2,904.60,1.50%,FL00704002
+61,Bradford,13,Hurricane sand, 0 to 5 percent slopes,Hurricane sand,1,887.40,1.00%,FL00704004
+62,Bradford,18,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,1,192.60,0.60%,FL00704006
+63,Brevard,36,Myakka sand,Myakka sand,67,229.40,7.60%,FL00905006
+64,Brevard,19,Riviera sand,Riviera sand,45,738.40,5.20%,FL00705013
+65,Brevard,17,EauGallie sand,EauGallie sand,42,956.00,4.80%,FL00705008
+66,Brevard,47,Pineda sand,Pineda sand,23,595.00,2.70%,FL00705017
+67,Brevard,24,Felda soils,,Felda soils,13,550.80,1.50%,FL00705005
+68,Brevard,9,Canaveral,Canaveral,12,109.70,1.40%,FL00705051
+69,Brevard,,Anclote,Anclote,,,FL00705009
+70,Brevard,7,Basinger sand,Basinger sand,10,679.50,1.20%,FL00705016
+71,Brevard,51,Pompano sand,Pompano sand,11,046.00,1.20%,FL00705048
+72,Brevard,16,Copeland-,Copeland,7,744.40,0.90%,FL00705047
+73,Brevard,29,Malabar sand, high,Malabar sand,6,704.20,0.80%,FL00705015
+74,Brevard,43,Paola fine sand, 0 to 5 percent slopes,Paola fine sand,6,734.10,0.80%,FL00705002
+75,Brevard,64,Terra Ceia muck, frequently flooded,Terra Ceia muck,7,317.50,0.80%,FL00705012
+76,Brevard,26,Holopaw sand,Holopaw sand,6,452.80,0.70%,FL00705041
+77,Brevard,42,Palm Beach sand,Palm Beach sand,5,521.60,0.60%,FL00705050
+78,Brevard,56,St. Lucie fine sand, 0 to 5 percent slopes,St. Lucie fine sand,2,489.90,0.30%,FL00705027
+79,Brevard,70,Valkaria sand,Valkaria sand,2,974.80,0.30%,FL00705010
+80,Brevard,72,Welaka sand,Welaka sand,2,969.20,0.30%,FL00705023
+81,Brevard,15,Cocoa sand,Cocoa sand,1,925.70,0.20%,FL00705025
+82,Brevard,63,Tavares fine sand,Tavares fine sand,1,714.20,0.20%,FL00705025
+83,Big Cypress Reservation, Broward,65,Plantation muck, depressional,Plantation muck,2,073.30,21.10%,FL01106008
+84,Big Cypress Reservation, Broward,23,Hallandale sand, slough,Hallandale sand,280.20,2.90%,FL01106003
+85,Calhoun,36,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,22,982.50,6.30%,FL01307009
+86,Calhoun,67,Alapaha loamy sand, 0 to 2 percent slopes,Alapaha loamy sand,20,635.90,5.60%,FL01307021
+87,Calhoun,32,Fuquay loamy sand, 0 to 2 percent slopes,Fuquay loamy sand,12,749.70,3.50%,FL01307018
+88,Calhoun,39,Leefield loamy sand, 0 to 5 percent slopes,Leefield loamy sand,11,533.90,3.10%,FL01307016
+89,Calhoun,48,Pansey sandy loam,Pansey sandy loam,10,503.60,2.90%,FL01307004
+90,Calhoun,31,Foxworth sand, 0 to 5 percent slopes,Foxworth sand,10,381.70,2.80%,FL01307012
+91,Calhoun,2,Albany loamy sand, 0 to 5 percent slopes,Albany loamy sand,9,484.30,2.60%,FL01307014
+92,Calhoun,61,Troup sand, 0 to 5 percent slopes,Troup sand,9,108.70,2.50%,FL01307013
+93,Calhoun,57,Stilson loamy sand, 0 to 2 percent slopes,Stilson loamy sand,8,360.00,2.30%,FL01307017
+94,Calhoun,55,Pottsburg sand,Pottsburg sand,8,131.50,2.20%,FL01307015
+95,Calhoun,12,Chipley sand, 0 to 5 percent slopes,Chipley sand,5,828.70,1.60%,FL01307011
+96,Calhoun,24,Dunbar fine sandy loam, rarely flooded,Dunbar fine sandy loam,5,658.80,1.50%,FL01307020
+97,Calhoun,,Dothan loamy sand, 2 to 5 percent slopes,Dothan loamy sand,4,346.10,1.20%,FL01307001
+98,Calhoun,35,Hurricane sand,Hurricane sand,3,273.10,0.90%,FL01307007
+99,Charlotte,43,Smyrna fine sand,Smyrna fine sand,19,505.40,3.40%,FL01508007
+100,Charlotte,34,Malabar fine sand,Malabar fine sand,12,961.70,2.20%,FL01508004
+101,Charlotte,9,EauGallie sand,EauGallie sand,11,914.00,2.10%,FL01508012
+102,Charlotte,70,Heights fine sand,Heights fine sand,10,244.20,1.80%,FL01508001
+103,Charlotte,12,Felda fine sand,Felda fine sand,8,363.20,1.50%,FL01508003
+104,Charlotte,56,Isles muck,Isles muck,4,785.20,0.80%,FL01508005
+105,Charlotte,19,Gator muck,Gator muck,2,280.20,0.40%,FL01508009
+106,Charlotte,29,Punta fine sand,Punta fine sand,1,465.50,0.30%,FL01508006
+107,Charlotte,57,Boca fine sand, tidal,Boca fine sand,1,605.00,0.30%,FL01508002
+108,Charlotte,20,Terra Ceia muck,Terra Ceia muck,915.00,0.20%,FL01508010
+109,,72,Bradenton fine sand,Bradenton fine sand,642.80,0.10%,FL01508008
+110,Citrus,3,Candler fine sand, 0 to 5 percent slopes,Candler fine sand,74,101.00,16.00%,FL01709016
+111,Citrus,14,Lake fine sand, 0 to 5 percent slopes,Lake fine sand,30,017.50,6.50%,FL01709005
+112,Citrus,29,Astatula fine sand, 0 to 5 percent slopes,Astatula fine sand,29,171.30,6.30%,FL01709014
+113,Citrus,11,Tavares fine sand, 0 to 5 percent slopes,Tavares fine sand,28,113.60,6.10%,FL01709012
+114,Citrus,16,Arredondo fine sand, 0 to 5 percent slopes,Arredondo fine sand,18,409.10,4.00%,FL01709004
+115,Citrus,2,Adamsville fine sand,Adamsville fine sand,11,160.50,2.40%,FL01709011
+116,Citrus,39,Hallandale fine sand,Hallandale fine sand,11,335.20,2.40%,FL01709017
+117,Citrus,,Durbin mucks,Durbin mucks,,,FL01709020
+118,Citrus,40,Homosassa mucky fine sandy loam,Homosassa mucky fine sandy loam,6,688.70,1.40%,FL01709021
+119,Citrus,35,Sparr fine sand, 0 to 5 percent slopes,Sparr fine sand,4,474.30,1.00%,FL01709026
+120,Citrus,36,EauGallie fine sand,EauGallie fine sand,3,992.50,0.90%,FL01709002
+121,Citrus,18,Kendrick fine sand, 0 to 5 percent slopes,Kendrick fine sand,3,555.50,0.80%,FL01709023
+122,Citrus,7,Myakka fine sand,Myakka fine sand,3,337.80,0.70%,FL01709010
+123,Citrus,28,Redlevel fine sand,Redlevel fine sand,2,756.90,0.60%,FL01709001
+124,Citrus,25,Lochloosa fine sand, 0 to 5 percent slopes,Lochloosa fine sand,1,588.30,0.30%,FL01709007
+125,Citrus,47,Fort Meade loamy fine sand, 0 to 5 percent slopes,Fort Meade loamy fine sand,1,283.30,0.30%,FL01709015
+126,Citrus,33,Micanopy loamy fine sand, 2 to 5 percent slopes,Micanopy loamy fine sand,1,000.40,0.20%,FL01709024
+127,Citrus,64,Citronelle fine sand,Citronelle fine sand,996.30,0.20%,FL01709018
+128,Clay,9,Leon fine sand,Leon fine sand,43,718.90,10.50%,FL01910012
+129,Clay,3,Hurricane fine sand, 0 to 5 percent slopes,Hurricane fine sand,31,379.20,7.50%,FL01910002
+130,Clay,5,Penney fine sand, 0 to 5 percent slopes,Penney fine sand,26,814.50,6.40%,FL01910005
+131,Clay,10,Ortega fine sand, 0 to 5 percent slopes,Ortega fine sand,23,375.20,5.60%,FL01910004
+132,Clay,6,Mandarin fine sand,Mandarin fine sand,19,947.90,4.80%,FL01910006
+133,Clay,8,Sapelo fine sand,Sapelo fine sand,18,473.30,4.40%,FL01910010
+134,Clay,18,Ridgewood fine sand, 0 to 5 percent slopes,Ridgewood fine sand,9,978.00,2.40%,FL01910003
+135,Clay,1,Albany fine sand, 0 to 5 percent slopes,Albany fine sand,9,363.10,2.20%,FL01910008
+136,Clay,2,Blanton fine sand, 0 to 5 percent slopes,Blanton fine sand,6,531.80,1.60%,FL01910001
+137,Clay,13,Meggett fine sandy loam,Meggett fine sandy loam,6,555.10,1.60%,FL01910017
+138,Clay,47,Newnan fine sand,Newnan fine sand,4,514.20,1.10%,FL01910009
+139,Clay,4,Ocilla loamy fine sand, 0 to 5 percent slopes,Ocilla loamy fine sand,3,598.10,0.90%,FL01910015
+140,Clay,65,Meadowbrook sand,Meadowbrook sand,3,678.40,0.90%,FL01910014
+141,Collier,7,Immokalee fine sand,Immokalee fine sand,51,399.20,6.70%,FL02111006
+142,Collier,21,Boca fine sand,Boca fine sand,26,416.70,3.40%,FL02111001
+143,Collier,11,Hallandale fine sand,Hallandale fine sand,22,794.20,3.00%,FL02111003
+144,Collier,54,Jupiter-complex,Jupiter-complex,9,431.70,1.20%,FL02111005
+145,Collier,,Jupiter, fine sands,Jupiter fine sands,,,FL02111002
+146,Columbia,8,Blanton fine sand, 0 to 5 percent slopes,Blanton fine sand,59,985.20,11.70%,FL12563003
+147,Columbia,13,Bonneau fine sand, 2 to 5 percent slopes,Bonneau fine sand,31,564.40,6.20%,FL12563009
+148,Columbia,42,Olustee fine sand, thick surface,Olustee fine sand,31,578.10,6.20%,FL00302003
+149,Columbia,56,Sapelo fine sand,Sapelo fine sand,28,256.90,5.50%,FL12563006
+150,Columbia,1,Albany fine sand, 0 to 5 percent slopes,Albany fine sand,25,684.80,5.00%,FL12563002
+151,Columbia,3,Alpin fine sand, 0 to 5 percent slopes,Alpin fine sand,17,125.70,3.30%,FL04121001
+152,Columbia,40,Ocilla fine sand, 0 to 5 percent slopes,Ocilla fine sand,12,530.90,2.40%,FL12563008
+153,Columbia,20,Chipley fine sand, 0 to 5 percent slopes,Chipley fine sand,6,726.40,1.30%,FL04724006
+154,Columbia,32,Leon fine sand,Leon fine sand,5,348.70,1.00%,FL04121006
+155,Columbia,26,Hurricane fine sand,Hurricane fine sand,4,828.30,0.90%,FL04121004
+156,De Soto,36,Smyrna fine sand,Smyrna fine sand,56,914.40,13.90%,FL02714012
+157,De Soto,20,Immokalee fine sand,Immokalee fine sand,49,040.60,12.00%,FL02714005
+158,De Soto,14,Farmton fine sand,Farmton fine sand,36,109.10,8.80%,FL02714001
+159,De Soto,13,EauGallie fine sand,EauGallie fine sand,28,971.30,7.10%,FL02714011
+160,De Soto,21,Malabar fine sand,Malabar fine sand,21,572.00,5.30%,FL02714010
+161,De Soto,3,Basinger fine sand,Basinger fine sand,18,014.20,4.40%,FL02714006
+162,De Soto,40,Valkaria fine sand,Valkaria fine sand,15,328.40,3.70%,FL02714008
+163,De Soto,26,Pineda fine sand,Pineda fine sand,11,070.90,2.70%,FL02714002
+164,De Soto,42,Zolfo fine sand,Zolfo fine sand,10,708.30,2.60%,FL02714014
+165,De Soto,25,Ona fine sand,Ona fine sand,9,012.30,2.20%,FL02714018
+166,De Soto,41,Wabasso fine sand,Wabasso fine sand,6,428.30,1.60%,FL02714017
+167,De Soto,6,Bradenton fine sand,Bradenton fine sand,4,441.70,1.10%,FL02714013
+168,Dixie,19,Wekiva occasionally flooded,Wekiva occasionally flooded,64,339.10,13.50%,FL07538017
+169,Dixie,17,Leon-Leon, depressional complex,Leon-Leon complex,52,330.40,10.90%,FL12362006
+170,Dixie,20,Chaires, limestone substratum complex,Chaires complex,31,941.10,6.70%,FL12362005
+171,Dixie,9,Otela limestone substratum complex, 0 to 5 percent slopes,Otela limestone substratum complex,16,784.00,3.50%,FL12362016
+172,Dixie,21,Meadowbrook fine sand,Meadowbrook fine sand,11,880.70,2.50%,FL12362020
+173,Dixie,41,Mandarin limestone substratum complex,Mandarin limestone substratum complex,11,229.60,2.30%,FL12362014
+174,Dixie,,Lutterloh, limestone substratum complex,Lutterloh complex,,,FL07538026
+175,Dixie,6,Albany-complex,Albany-complex,9,000.50,1.90%,FL06734002
+176,Dixie,,Ridgewood complex,Ridgewood complex,,,FL12362011
+177,Dixie,34,Ortega complex, 0 to 5 percent slopes,Ortega complex,8,385.50,1.80%,FL12362010
+178,Dixie,2,Penney fine sand, 0 to 5 percent slopes,Penney fine sand,3,791.60,0.80%,FL07538007
+179,Duval,32,Leon fine sand, 0 to 2 percent slopes,Leon fine sand,71,226.30,12.80%,FL03116009
+180,Duval,14,Boulogne fine sand, 0 to 2 percent slopes,Boulogne fine sand,33,514.20,6.00%,FL03116005
+181,Duval,,Wesconnett complex, depressional, 0 to 2 percent slopes,Wesconnett complex,,,FL03116024
+182,Duval,66,Surrency loamy fine sand, depressional, 0 to 2 percent slopes,Surrency loamy fine sand,25,440.80,4.60%,FL03116021
+183,Duval,63,Sapelo fine sand, 0 to 2 percent slopes,Sapelo fine sand,20,985.30,3.80%,FL03116015
+184,Duval,35,Lynn Haven fine sand, 0 to 2 percent slopes,Lynn Haven fine sand,16,738.70,3.00%,FL03116023
+185,Duval,44,Mascotte complex, 0 to 2 percent slopes,Mascotte complex,9,126.30,1.60%,FL03116008
+186,Duval,46,Ortega fine sand,Ortega fine sand,5,894.80,1.10%,FL03116003
+187,Duval,81,Stockade fine sandy loam, depressional, 0 to 2 percent slopes,Stockade fine sandy loam,5,758.00,1.00%,FL03116012
+188,Duval,2,Albany fine sand, 0 to 5 percent slopes,Albany fine sand,4,359.30,0.80%,FL03116010
+189,Duval,25,Kershaw fine sand, 2 to 8 percent slopes,Kershaw fine sand,2,127.30,0.40%,FL03116007
+190,Duval,36,Mandarin fine sand, 0 to 2 percent slopes,Mandarin fine sand,1,965.50,0.40%,FL03116013
+191,Duval,56,Pottsburg fine sand, 0 to 2 percent slopes,Pottsburg fine sand,2,405.00,0.40%,FL03116011
+192,Duval,79,Yulee clay, 0 to 2 percent slopes, frequently flooded,Yulee clay,2,126.80,0.40%,FL03116025
+193,Duval,12,Blanton fine sand, 0 to 6 percent slopes,Blanton fine sand,849.00,0.20%,FL03116014
+194,Duval,23,Fripp,Fripp,912.40,0.20%,FL03116019
+195,Duval,29,Kureb fine sand, 2 to 8 percent slopes,Kureb fine sand,883.80,0.20%,FL03116004
+196,Duval,19,Cornelia fine sand, 0 to 5 percent slopes,Cornelia fine sand,749.60,0.10%,FL03116006
+197,Duval,80,Goldhead,  2 to 5 percent slopes,Goldhead,817.20,0.10%,FL03116018
+198,Escambia,54,Troup-complex, 8 to 12 percent slopes,Troup-complex,48,670.60,10.10%,FL11357018
+199,Escambia,38,Bonifay loamy sand, 0 to 5 percent slopes,Bonifay loamy sand,27,236.90,5.70%,FL11357012
+200,Escambia,13,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,16,822.50,3.50%,FL11357021
+201,Escambia,64,Red Bay fine sandy loam, 0 to 2 percent slopes,Red Bay fine sandy loam,7,716.70,1.60%,FL11357024
+202,Escambia,9,Leon sand,Leon sand,4,455.70,0.90%,FL11357046
+203,Escambia,,Albany soils, 0 to 5 percent slopes, occasionally flooded,Albany soils,,,FL11357037
+204,Escambia,19,Foxworth sand, 0 to 5 percent slopes,Foxworth sand,2,439.20,0.50%,FL11357009
+205,Escambia,36,Lucy loamy sand, 2 to 5 percent slopes,Lucy loamy sand,2,497.70,0.50%,FL11357027
+206,Escambia,41,Malbis sandy loam, 0 to 2 percent slopes,Malbis sandy loam,1,472.80,0.30%,FL11357029
+207,Escambia,,,,,,
+208,Flagler,4,Wabasso fine sand,Wabasso fine sand,20,196.50,6.10%,FL03518003
+209,Flagler,14,Pineda fine sand,Pineda fine sand,17,777.50,5.40%,FL03518004
+210,Flagler,21,Smyrna fine sand,Smyrna fine sand,17,600.20,5.30%,FL03518009
+211,Flagler,2,Riviera fine sand,Riviera fine sand,11,655.50,3.50%,FL03518005
+212,Flagler,40,Pomona fine sand,Pomona fine sand,10,793.60,3.30%,FL03518019
+213,Flagler,19,Valkaria fine sand,Valkaria fine sand,9,754.80,3.00%,FL03518020
+214,Flagler,6,Favoretta clay,Favoretta clay,7,514.10,2.30%,FL03518021
+215,Flagler,15,Pomello fine sand, 0 to 5 percent slopes,Pomello fine sand,4,363.00,1.30%,FL03518011
+216,Flagler,27,Cassia fine sand,Cassia fine sand,3,532.00,1.10%,FL03518008
+217,Flagler,20,Orsino fine sand, 0 to 5 percent slopes,Orsino fine sand,1,910.10,0.60%,FL03518010
+218,Flagler,37,Tuscawilla fine sand,Tuscawilla fine sand,2,099.10,0.60%,FL03518017
+219,Flagler,22,Astatula fine sand, 0 to 8 percent slopes,Astatula fine sand,1,548.00,0.50%,FL03518013
+220,Flagler,23,Adamsville fine sand, 0 to 3 percent slopes,Adamsville fine sand,1,496.10,0.50%,FL03518014
+221,Franklin,33,Scranton fine sand,Scranton fine sand,46,644.00,9.10%,FL03719017
+222,Franklin,22,Leon sand,Leon sand,25,027.40,4.90%,FL03719006
+223,Franklin,38,Meadowbrook sand,Meadowbrook sand,9,691.00,1.90%,FL03719020
+224,Franklin,24,Mandarin fine sand,Mandarin fine sand,5,282.50,1.00%,FL03719004
+225,Franklin,29,Resota fine sand, 0 to 5 percent slopes,Resota fine sand,4,656.10,0.90%,FL03719003
+226,Franklin,10,Corolla sand, 0 to 5 percent slopes,Corolla sand,3,863.70,0.80%,FL03719009
+227,Franklin,15,Ortega fine sand, 0 to 5 percent slopes,Ortega fine sand,4,086.70,0.80%,FL03719010
+228,Franklin,27,Pelham fine sand,Pelham fine sand,4,246.40,0.80%,FL03719018
+229,Franklin,11,Dorovan complex, depressional,Dorovan complex,3,227.90,0.60%,FL03719019
+230,Franklin,37,Tooles-complex, depressional,Tooles-complex,3,329.30,0.60%,FL03719021
+231,Franklin,32,Sapelo fine sand,Sapelo fine sand,2,469.90,0.50%,FL03719016
+232,Franklin,6,Blanton fine sand, 0 to 5 percent slopes,Blanton fine sand,1,029.40,0.20%,FL03719015
+233,Franklin,9,Chaires sand,Chaires sand,1,240.30,0.20%,FL03719005
+234,Franklin,18,Kershaw sand, 5 to 12 percent slopes,Kershaw sand,697.20,0.10%,FL03719002
+235,Franklin,19,Kureb fine sand, 3 to 8 percent slopes,Kureb fine sand,340.10,0.10%,FL03719001
+236,Franklin,21,Leefield sand,Leefield sand,635.30,0.10%,FL03719012
+237,Franklin,35,Stilson fine sand,Stilson fine sand,728.50,0.10%,FL03719014
+238,Gadsden,46,Orangeburg loamy sand, 2 to 5 percent slopes,Orangeburg loamy sand,19,390.80,5.70%,FL06332011
+239,Gadsden,30,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,13,841.90,4.10%,FL07337001
+240,Gadsden,47,Orangeburg- complex, 5 to 8 percent slopes,Orangeburg- complex,13,994.70,4.10%,FL07337008
+241,Gadsden,19,Dothan complex, 2 to 5 percent slopes,Dothan complex,13,390.50,4.00%,FL06332017
+242,Gadsden,,Fuquay complex, 2 to 5 percent slopes,Fuquay complex,,,FL07337025
+243,Gadsden,9,Bonifay complex, 0 to 5 percent slopes,Bonifay complex,11,148.30,3.30%,FL07337019
+244,Gadsden,,Alpin complex, 0 to 5 percent slopes,Alpin complex,,,FL07337023
+245,Gadsden,,Lucy- complex, 0 to 5 percent slopes,Lucy- complex,,,FL07337006
+246,Gadsden,88,Rutlege, soils, frequently flooded,Rutlege soils,9,363.10,2.80%,F07337014
+247,Gadsden,32,Leefield-complex, 0 to 5 percent slopes,Leefield-complex,8,295.70,2.50%,FL07337017
+248,Gadsden,2,Albany complex, 0 to 5 percent slopes,Albany complex,7,960.40,2.40%,FL06332015
+249,Gadsden,,Blanton complex, 0 to 5 percent slopes,Blanton complex,,,FL07337007
+250,Gadsden,63,Troup complex, 15 to 45 percent slopes,Troup complex,4,552.50,1.30%,FL07337005
+251,Gadsden,,Ocilla- complex, 0 to 5 percent slopes,Ocilla- complex,,,FL07337026
+252,Gadsden,,Chipley complex, 0 to 5 percent slopes,Chipley complex,,,FL07337013
+253,Gadsden,80,Foxworth- complex, 0 to 5 percent slopes,Foxworth- complex,3,325.90,1.00%,FL07337003
+254,Gadsden,42,Norfolk loamy fine sand, 2 to 5 percent slopes,Norfolk loamy fine sand,2,641.40,0.80%,FL07337004
+255,Gadsden,58,Tifton loamy fine sand, 2 to 5 percent slopes,Tifton loamy fine sand,2,825.10,0.80%,FL06332010
+256,Gadsden,,Pelham complex, 0 to 5 percent slopes, occasionally flooded,Pelham complex,,,FL07337029
+257,Gilchrist,4,Otela fine sands, 0 to 5 percent slopes,Otela fine sands,25,759.90,11.30%,FL04121007
+258,Gilchrist,6,Ridgewood fine sand, 0 to 5 percent slopes,Ridgewood fine sand,15,064.80,6.60%,FL04121003
+259,Gilchrist,35,Alpin fine sand, 0 to 5 percent slopes,Alpin fine sand,11,780.20,5.20%,FL04121001
+260,Gilchrist,18,Kershaw fine sand, gently rolling,Kershaw fine sand,11,689.40,5.10%,FL04121009
+261,Gilchrist,11,Ortega fine sand, 0 to 5 percent slopes,Ortega fine sand,9,583.10,4.20%,FL04121008
+262,Gilchrist,29,Shadeville fine sands, 0 to 5 percent slopes,Shadeville fine sands,8,295.70,3.70%,FL04121013
+263,Gilchrist,7,Leon fine sand,Leon fine sand,7,999.70,3.50%,FL04121006
+264,Gilchrist,9,Hurricane fine sand, 0 to 5 percent slopes,Hurricane fine sand,5,633.10,2.50%,FL04121004
+265,Gilchrist,15,Blanton fine sand, 0 to 5 percent slopes,Blanton fine sand,5,558.50,2.40%,FL04121012
+266,Gilchrist,12,Albany fine sand, 0 to 5 percent slopes,Albany fine sand,4,535.70,2.00%,FL04121011
+267,Gilchrist,33,Eunola fine sands, 0 to 5 percent slopes,Eunola fine sands,3,835.60,1.70%,FL04121018
+268,Gilchrist,10,Garcon fine sand, 0 to 5 percent slopes, occasionally flooded,Garcon fine sand,2,922.80,1.30%,FL04121016
+269,Gilchrist,19,Sapelo fine sand,Sapelo fine sand,2,172.20,1.00%,FL04121014
+270,Glades,10,Felda fine sand,Felda fine sand,27,182.80,4.30%,FL04322004
+271,Glades,15,Pineda fine sand,Pineda fine sand,24,207.40,3.80%,FL04322001
+272,Glades,6,Malabar fine sand,Malabar fine sand,19,789.60,3.10%,FL04322002
+273,Glades,7,Pople fine sand,Pople fine sand,14,869.80,2.40%,FL04322003
+274,Gulf,27,Pelham loamy fine sand,Pelham loamy fine sand,36,776.20,8.90%,FL04523025
+275,Gulf,32,Rains fine sandy loam,Rains fine sandy loam,20,210.60,4.90%,FL04523017
+276,Gulf,22,Leon fine sand,Leon fine sand,17,451.60,4.20%,FL04523004
+277,Gulf,2,Albany sand,Albany sand,10,437.80,2.50%,FL04523008
+278,Gulf,3,Alapaha loamy fine sand,Alapaha loamy fine sand,8,727.90,2.10%,FL04523026
+279,Gulf,5,Bladen fine sandy loam,Bladen fine sandy loam,5,218.30,1.30%,FL04523020
+280,Gulf,35,Stilson loamy fine sand, 0 to 5 percent slopes,Stilson loamy fine sand,3,677.90,0.90%,FL04523001
+281,Gulf,6,Blanton sand, 0 to 5 percent slopes,Blanton sand,3,496.70,0.80%,FL04523009
+282,Gulf,36,Sapelo sand,Sapelo sand,3,154.40,0.80%,FL04523015
+283,Gulf,24,Mandarin fine sand,Mandarin fine sand,2,584.60,0.60%,FL04523011
+284,Gulf,17,Fuquay loamy fine sand,Fuquay loamy fine sand,1,506.10,0.40%,FL04523007
+285,Gulf,48,Kureb-complex, rolling,Kureb-complex,1,591.40,0.40%,FL04523013
+286,Gulf,10,Corolla fine sand, 1 to 5 percent slopes,Corolla fine sand,927.70,0.20%,FL04523012
+287,Gulf,26,Ocilla loamy fine sand, overwash, occasionally flooded,Ocilla loamy fine sand,822.90,0.20%,FL04523024
+288,Gulf,33,Resota fine sand, 0 to 5 percent slopes,Resota fine sand,685.20,0.20%,FL04523005
+289,Gulf,47,Newhan-complex, rolling,Newhan-complex,478.20,0.10%,FL04523014
+290,Gulf,,Eulonia complex, 0 to 5 percent slopes,Eulonia complex,,,FL04523021
+291,Gulf,52,Dothan loamy sand, 2 to 5 percent slopes,Dothan loamy sand,388.10,0.10%,FL04523018
+292,Hamilton,3,Alpin sand, 0 to 5 percent slopes,Alpin sand,29,068.70,8.70%,FL04724003
+293,Hamilton,2,Albany fine sand, 0 to 5 percent slopes,Albany fine sand,26,828.30,8.10%,FL04724007
+294,Hamilton,15,Valdosta sand, 0 to 5 percent slopes,Valdosta sand,11,183.30,3.40%,FL04724002
+295,Hamilton,8,Chipley sand, 0 to 5 percent slopes,Chipley sand,6,720.90,2.00%,FL04724006
+296,Hamilton,9,Foxworth sand, 0 to 5 percent slopes,Foxworth sand,5,516.50,1.70%,FL04724004
+297,Hamilton,14,Pottsburg sand,Pottsburg sand,4,907.40,1.50%,FL04724005
+298,Hamilton,10,Lowndes sand, 0 to 5 percent slopes,Lowndes sand,2,003.40,0.60%,FL04724001
+299,Hardee,10,Pomona fine sand,Pomona fine sand,83,155.00,20.40%,FL04925010
+300,Hardee,16,Myakka fine sand,Myakka fine sand,41,258.40,10.10%,FL04925014
+301,Hardee,2,Zolfo fine sand,Zolfo fine sand,20,350.30,5.00%,FL04925005
+302,Hardee,19,Ona fine sand,Ona fine sand,14,547.60,3.60%,FL04925012
+303,Hardee,36,Kaliga muck,Kaliga muck,9,473.60,2.30%,FL04925017
+304,Hardee,21,Placid fine sand, depressional,Placid fine sand,8,585.00,2.10%,FL04925013
+305,Hardee,5,Tavares fine sand, 0 to 5 percent slopes,Tavares fine sand,6,632.80,1.60%,FL04925018
+306,Hardee,39,Bradenton loamy fine sand,Bradenton loamy fine sand,6,374.90,1.60%,FL04925016
+307,Hardee,11,Felda fine sand,Felda fine sand,6,226.50,1.50%,FL04925200
+308,Hardee,22,Pomello fine sand,Pomello fine sand,5,627.30,1.40%,FL04925015
+309,Hardee,35,Farmton fine sand,Farmton fine sand,5,176.10,1.30%,FL04925202
+310,Hardee,18,Cassia fine sand,Cassia fine sand,3,697.50,0.90%,FL04925004
+311,Hardee,23,Sparr fine sand,Sparr fine sand,3,135.60,0.80%,FL04925007
+312,Hardee,3,Ft. Green fine sand, 2 to 5 percent slopes,Ft. Green fine sand,1,947.70,0.50%,FL04925008
+313,Hardee,24,Jonathan sand,Jonathan sand,1,879.00,0.50%,FL04925003
+314,Hendry,4,Oldsmar sand,Oldsmar sand,51,431.20,6.90%,FL05126014
+315,Hendry,1,Boca sand,Boca sand,49,413.80,6.60%,FL05126001
+316,Hendry,29,Oldsmar sand, limestone substratum,Oldsmar sand,29,980.80,4.00%,FL05126017
+317,Hendry,14,Wabasso sand, limestone substratum,Wabasso sand,21,802.70,2.90%,FL05126013
+318,Hendry,8,Malabar sand,Malabar sand,18,701.50,2.50%,FL05126015
+319,Hendry,57,Chobee fine sandy loam, depressional,Chobee fine sandy loam,18,949.70,2.50%,FL05126012
+320,Hendry,2,Pineda sand, limestone substratum,Pineda sand,17,636.70,2.40%,FL05126010
+321,Hendry,37,Tuscawilla fine sand,Tuscawilla fine sand,13,319.60,1.80%,FL05126008
+322,Hendry,9,Riviera fine sand,Riviera fine sand,5,377.90,0.70%,FL05126005
+323,Hernando,14,Candler fine sand, 0 to 5 percent slopes,Candler fine sand,87,853.90,23.20%,FL05327006
+324,Hernando,36,Nobleton fine sand, 0 to 5 percent slopes,Nobleton fine sand,16,394.60,4.30%,FL05327010
+325,Hernando,6,Arredondo fine sand, 0 to 5 percent slopes,Arredondo fine sand,15,713.70,4.20%,FL05327011
+326,Hernando,47,Sparr fine sand, 0 to 5 percent slopes,Sparr fine sand,11,695.00,3.10%,FL05327029
+327,Hernando,29,Kendrick fine sand, 0 to 5 percent slopes,Kendrick fine sand,8,541.90,2.30%,FL05327013
+328,Hernando,52,Wauchula fine sand, 0 to 5 percent slopes,Wauchula fine sand,6,790.70,1.80%,FL05327019
+329,Hernando,35,Myakka fine sand,Myakka fine sand,6,508.90,1.70%,FL05327014
+330,Hernando,31,Lake fine sand, 0 to 5 percent slopes,Lake fine sand,5,933.70,1.60%,FL05327028
+331,Hernando,49,Tavares fine sand, 0 to 5 percent slopes,Tavares fine sand,5,984.90,1.60%,FL05327008
+332,Hernando,32,Masaryk very fine sand, 0 to 5 percent slopes,Masaryk very fine sand,4,664.00,1.20%,FL05327012
+333,Hernando,18,EauGallie fine sand,EauGallie fine sand,4,121.70,1.10%,FL05327015
+334,Hernando,39,Paola fine sand, 0 to 8 percent slopes,Paola fine sand,3,044.20,0.80%,FL05327007
+335,Hernando,9,Basinger fine sand,Basinger fine sand,1,941.30,0.50%,FL05327017
+336,Hernando,4,Aripeka fine sand,Aripeka fine sand,1,006.80,0.30%,FL05327024
+337,Hernando,43,Pomello fine sand, 0 to 5 percent slopes,Pomello fine sand,1,258.10,0.30%,FL05327023
+338,Hernando,8,Astatula fine sand, 0 to 8 percent slopes,Astatula fine sand,865.70,0.20%,FL05327022
+339,Hernando,22,Flemington fine sandy loam, 8 to 12 percent slopes,Flemington fine sandy loam,715.50,0.20%,FL05327020
+340,Highlands,8,Immokalee sand,Immokalee sand,83,052.20,11.70%,FL05528014
+341,Highlands,12,Basinger fine sand,Basinger fine sand,63,904.50,9.00%,FL05528017
+342,Highlands,9,Astatula sand, 0 to 8 percent slopes,Astatula sand,39,124.60,5.50%,FL05528001
+343,Highlands,,Placid soils,Placid soils,,,FL05528023
+344,Highlands,14,Satellite sand,Satellite sand,27,964.50,3.90%,FL05528021
+345,Highlands,39,Smyrna sand,Smyrna sand,27,596.40,3.90%,FL05528015
+346,Highlands,13,Felda fine sand,Felda fine sand,25,298.80,3.60%,FL05528010
+347,Highlands,16,Valkaria fine sand,Valkaria fine sand,23,998.50,3.40%,FL05528009
+348,Highlands,20,Samsula muck,Samsula muck,17,367.20,2.50%,FL05528013
+349,Highlands,28,Archbold sand, 0 to 5 percent slopes,Archbold sand,13,461.30,1.90%,FL05528008
+350,Highlands,36,Pomello sand, 0 to 5 percent slopes,Pomello sand,10,536.00,1.50%,FL05528022
+351,Highlands,1,Paola sand, 0 to 8 percent slopes,Paola sand,7,462.60,1.10%,FL05528006
+352,Highlands,17,Malabar fine sand,Malabar fine sand,7,704.80,1.10%,FL05528011
+353,Highlands,19,Hicoria mucky sand, depressional,Hicoria mucky sand,7,793.90,1.10%,FL05528016
+354,Highlands,6,Tavares sand, 0 to 5 percent slopes,Tavares sand,6,964.80,1.00%,FL05528002
+355,Highlands,15,Bradenton fine sand,Bradenton fine sand,5,385.00,0.80%,FL05528012
+356,Highlands,38,EauGallie fine sand,EauGallie fine sand,3,804.90,0.50%,FL05528019
+357,Highlands,2,St. Lucie sand, 0 to 8 percent slopes,St. Lucie sand,2,811.60,0.40%,FL05528007
+358,Highlands,5,Daytona sand, 0 to 5 percent slopes,Daytona sand,2,490.50,0.40%,FL05528004
+359,Highlands,11,Orsino sand, 0 to 5 percent slopes,Orsino sand,2,200.00,0.30%,FL05528005
+360,Highlands,4,Duette sand, 0 to 5 percent slopes,Duette sand,1,458.00,0.20%,FL05528003
+361,Hillsborough,29,Myakka fine sand,Myakka fine sand,163,589.60,21.20%,FL10553016
+362,Hillsborough,61,Zolfo fine sand,Zolfo fine sand,47,150.20,6.10%,FL10553006
+363,Hillsborough,7,Candler fine sand, 0 to 5 percent slopes,Candler fine sand,28,855.70,3.70%,FL10151028
+364,Hillsborough,52,Smyrna fine sand,Smyrna fine sand,20,309.40,2.60%,FL10151023
+365,Hillsborough,21,Immokalee fine sand,Immokalee fine sand,15,573.00,2.00%,FL10151035
+366,Hillsborough,33,Ona fine sand,Ona fine sand,14,329.70,1.90%,FL10553013
+367,Hillsborough,25,Lake fine sand, 0 to 5 percent slopes,Lake fine sand,13,903.60,1.80%,FL10151031
+368,Hillsborough,41,Pomello fine sand, 0 to 5 percent slopes,Pomello fine sand,12,953.70,1.70%,FL10151032
+369,Hillsborough,57,Wabasso fine sand,Wabasso fine sand,11,826.90,1.50%,FL10553012
+370,Hillsborough,53,Tavares-fine sands, 0 to 5 percent slopes,Tavares-fine sands,10,553.30,1.40%,FL10553019
+371,Hillsborough,,Millhopper fine sands, 0 to 5 percent slopes,Millhopper fine sands,,,FL10151024
+372,Hillsborough,3,Archbold fine sand,Archbold fine sand,6,960.60,0.90%,FL10553023
+373,Hillsborough,15,Felda fine sand,Felda fine sand,4,981.40,0.60%,FL10151007
+374,Hillsborough,35,Orlando fine sand, 0 to 5 percent slopes,Orlando fine sand,2,749.90,0.40%,FL10151036
+375,Hillsborough,2,Adamsville fine sand,Adamsville fine sand,1,356.60,0.20%,FL10151021
+376,Hillsborough,11,Chobee muck, depressional,Chobee muck,816.60,0.10%,FL10151034
+377,Hillsborough,26,Lochloosa fine sands, 0 to 5 percent slopes,Lochloosa fine sands,480.00,0.10%,FL10151018
+378,Hillsborough,37,Paisley fine sand, depressional,Paisley fine sand,785.10,0.10%,FL10553001
+379,Hillsborough,23,Kendrick fine sand, 2 to 5 percent slopes,Kendrick fine sand,329.00,0.00%,FL10553008
+380,Holmes,22,Orangeburg loamy sand, 2 to 5 percent slopes,Orangeburg loamy sand,4,315.20,1.40%,FL05930005
+381,Holmes,3,Angie fine sandy loam,Angie fine sandy loam,1,419.50,0.50%,FL05930004
+382,Holmes,12,Faceville sandy loam, 2 to 5 percent slopes,Faceville sandy loam,1,033.20,0.30%,FL05930003
+383,Indian River,4,Immokalee fine sand,Immokalee fine sand,16,530.90,4.60%,FL06131003
+384,Indian River,40,Gator muck,Gator muck,12,748.60,3.60%,FL06131016
+385,Indian River,41,Canova muck,Canova muck,11,229.90,3.20%,FL06131011
+386,Indian River,15,Manatee loamy fine sand,Manatee loamy fine sand,3,236.70,0.90%,FL06131005
+387,Indian River,24,Floridana sand,Floridana sand,2,676.00,0.80%,FL06131017
+388,Indian River,1,Canaveral fine sand,0 to 5 percent slopes,Canaveral fine sand,2,507.90,0.70%,FL06131008
+389,Indian River,7,Palm Beach sand, 0 to 5 percent slopes,Palm Beach sand,1,657.80,0.50%,FL06131020
+390,Indian River,33,Astatula sand, 0 to 5 percent slopes,Astatula sand,1,523.50,0.40%,FL06131015
+391,Indian River,36,Boca fine sand,Boca fine sand,1,585.30,0.40%,FL06131002
+392,Indian River,9,Pepper sand,Pepper sand,1,040.30,0.30%,FL06131010
+393,Indian River,31,Jupiter fine sand,Jupiter fine sand,951.20,0.30%,FL06131009
+394,Indian River,11,St. Lucie sand, 0 to 8 percent slopes,St. Lucie sand,853.70,0.20%,FL06131014
+395,Indian River,12,Archbold sand, 0 to 5 percent slopes,Archbold sand,812.30,0.20%,FL06131006
+396,Indian River,48,Electra sand, 0 to 5 percent slopes,Electra sand,710.60,0.20%,FL06131007
+397,Indian River,8,Paola sand, 0 to 5 percent slopes,Paola sand,292.40,0.10%,FL06131013
+398,Indian River,32,Jonathan sand, 0 to 5 percent slopes,Jonathan sand,200.50,0.10%,FL06131019
+399,Indian River,46,Orsino fine sand, 0 to 5 percent slopes,Orsino fine sand,380.50,0.10%,FL06131018
+400,Jackson,17,Dothan loamy sand, 2 to 5 percent slopes,Dothan loamy sand,83,016.80,13.60%,FL06332017
+401,Jackson,46,Orangeburg loamy sand, 2 to 5 percent slopes,Orangeburg loamy sand,44,139.10,7.20%,FL06332011
+402,Jackson,6,Blanton coarse sand, 0 to 5 percent slopes,Blanton coarse sand,43,090.80,7.10%,FL06332041
+403,Jackson,30,Fuquay coarse sand, 0 to 5 percent slopes,Fuquay coarse sand,43,585.50,7.10%,FL06332022
+404,Jackson,59,Troup sand, 0 to 5 percent slopes,Troup sand,41,755.10,6.80%,FL06332020
+405,Jackson,10,Chipola loamy sand, 0 to 5 percent slopes,Chipola loamy sand,24,408.30,4.00%,FL06332012
+406,Jackson,12,Clarendon fine sandy loam,Clarendon fine sandy loam,22,651.70,3.70%,FL06332004
+407,Jackson,8,Bonifay sand, 0 to 5 percent slopes,Bonifay sand,15,631.30,2.60%,FL06332018
+408,Jackson,64,Yonges- association,Yonges- association,16,074.30,2.60%,FL06332008
+409,Jackson,38,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,14,643.60,2.40%,FL06332019
+410,Jackson,54,Red Bay fine sandy loam, 2 to 5 percent slopes,Red Bay fine sandy loam,12,574.50,2.10%,FL06332026
+411,Jackson,57,Tifton loamy sand, 2 to 5 percent slopes,Tifton loamy sand,10,114.70,1.70%,FL06332010
+412,Jackson,2,Albany sand, 0 to 5 percent slopes,Albany sand,8,868.30,1.50%,FL06332015
+413,Jackson,33,Greenville fine sandy loam, 2 to 5 percent slopes,Greenville fine sandy loam,8,836.80,1.40%,FL06332009
+414,Jackson,49,Pansey fine sandy loam,Pansey fine sandy loam,7,049.10,1.20%,FL06332039
+415,Jackson,36,Hornsville fine sandy loam, 2 to 5 percent slopes,Hornsville fine sandy loam,6,801.30,1.10%,FL06332032
+416,Jackson,27,Esto complex, 5 to 15 percent slopes, severely eroded,Esto complex,5,907.30,1.00%,FL06332024
+417,Jackson,3,Apalachee clay,Apalachee clay,5,769.50,0.90%,FL06332035
+418,Jackson,21,Duplin fine sandy loam, 2 to 5 percent slopes,Duplin fine sandy loam,4,990.30,0.80%,FL06332033
+419,Jackson,4,Bethera silt loam,Bethera silt loam,4,171.50,0.70%,FL06332034
+420,Jackson,42,Leefield loamy sand,Leefield loamy sand,4,257.70,0.70%,FL06332040
+421,Jefferson,4,Surrency fine sand,Surrency fine sand,34,177.20,8.60%,FL06533019
+422,Jefferson,8,Chaires fine sand,Chaires fine sand,28,757.90,7.20%,FL06533027
+423,Jefferson,6,Dothan loamy fine sand, 2 to 5 percent slopes,Dothan loamy fine sand,28,367.60,7.10%,FL06533008
+424,Jefferson,13,Orangeburg sandy loam, 2 to 5 percent slopes,Orangeburg sandy loam,25,416.20,6.40%,FL06533013
+425,Jefferson,23,Pelham fine sand,Pelham fine sand,19,690.10,5.00%,FL06533033
+426,Jefferson,62,Nutall fine sands, frequently flooded,Nutall fine sands,18,764.10,4.70%,FL06533037
+427,Jefferson,,Tooles fine sands, frequently flooded,Tooles fine sands,,,FL06533038
+428,Jefferson,20,Albany sand,Albany sand,15,770.40,4.00%,FL06533012
+429,Jefferson,11,Lucy loamy fine sand, 0 to 5 percent slopes,Lucy loamy fine sand,11,621.20,2.90%,FL06533001
+430,Jefferson,33,Leefield fine sand,Leefield fine sand,9,001.00,2.30%,FL06533023
+431,Jefferson,16,Blanton fine sand, 0 to 5 percent slopes,Blanton fine sand,8,097.30,2.00%,FL06533002
+432,Jefferson,26,Sapelo fine sand,Sapelo fine sand,6,429.00,1.60%,FL06533026
+433,Jefferson,9,Leon fine sand,Leon fine sand,5,831.70,1.50%,FL06533024
+434,Jefferson,17,Troup fine sand, 0 to 5 percent slopes,Troup fine sand,5,279.90,1.30%,FL06533003
+435,Jefferson,21,Bonifay fine sand, 0 to 5 percent slopes,Bonifay fine sand,4,727.40,1.20%,FL06533007
+436,Jefferson,10,Rains fine sandy loam,Rains fine sandy loam,2,830.50,0.70%,FL06533018
+437,Lafayette,7,Chaires-Chaires, depressional complex,Chaires-Chaires complex,36,451.40,10.40%,FL06734001
+438,Lafayette,14,Leon fine sand,Leon fine sand,36,145.80,10.30%,FL06734003
+439,Lafayette,,Lynn Haven soils, depressional,Lynn Haven soils,,,FL06734004
+440,Lafayette,,Hurricane complex, 0 to 5 percent slopes,Hurricane complex,,,FL06734006
+441,Lafayette,9,Sapelo, depressional complex,Sapelo complex,9,385.90,2.70%,FL06734007
+442,Lafayette,6,Mouzon, depressional complex,Mouzon complex,8,600.40,2.50%,FL06734005
+443,Lafayette,27,Albany complex, 0 to 5 percent slopes,Albany complex,8,488.10,2.40%,FL06734002
+444,Lake,8,Candler sand, 0 to 5 percent slopes,Candler sand,108,577.00,17.00%,FL06935004
+445,Lake,45,Tavares sand, 0 to 5 percent slopes,Tavares sand,28,039.30,4.40%,FL06935005
+446,Lee,28,Immokalee sand,Immokalee sand,52,144.70,6.40%,FL07136020
+447,Lee,13,Boca fine sand,Boca fine sand,37,974.30,4.70%,FL07136009
+448,Lee,33,Oldsmar sand,Oldsmar sand,38,007.60,4.70%,FL07136016
+449,Lee,6,Hallandale fine sand,Hallandale fine sand,23,916.30,2.90%,FL07136010
+450,Lee,23,Wulfert muck,Wulfert muck,18,843.70,2.30%,FL07136006
+451,Lee,11,Myakka fine sand,Myakka fine sand,15,530.90,1.90%,FL07136022
+452,Lee,10,Pompano fine sand,Pompano fine sand,11,161.20,1.40%,FL07136014
+453,Lee,14,Valkaria fine sand,Valkaria fine sand,10,629.80,1.30%,FL07136013
+454,Lee,35,Wabasso sand,Wabasso sand,9,873.90,1.20%,FL07136015
+455,Lee,45,Copeland sandy loam, depressional,Copeland sandy loam,6,699.50,0.80%,FL07136023
+456,Lee,15,Estero muck,Estero muck,6,014.90,0.70%,FL07136007
+457,Lee,24,Kesson fine sand,Kesson fine sand,5,591.50,0.70%,FL07136004
+458,Lee,2,Canaveral fine sand,Canaveral fine sand,3,922.90,0.50%,FL07136002
+459,Lee,5,Captiva fine sand,Captiva fine sand,3,146.00,0.40%,FL07136003
+460,Lee,51,Floridana sand, depressional,Floridana sand,2,042.10,0.30%,FL07136025
+461,Lee,55,Cocoa fine sand,Cocoa fine sand,2,302.40,0.30%,FL07136019
+462,Lee,9,EauGallie sand,EauGallie sand,1,691.20,0.20%,FL07136017
+463,Lee,37,Satellite fine sand,Satellite fine sand,1,356.50,0.20%,FL07136008
+464,Lee,72,Bradenton fine sand,Bradenton fine sand,1,400.70,0.20%,FL07136027
+465,Lee,40,Anclote sand, depressional,Anclote sand,1,154.80,0.10%,FL07136026
+466,Lee,61,Orsino fine sand,Orsino fine sand,912.20,0.10%,FL07136018
+467,Lee,76,Electra fine sand,Electra fine sand,841.60,0.10%,FL07136024
+468,Leon,34,Orangeburg fine sandy loam, 5 to 8 percent slopes,Orangeburg fine sandy loam,39,989.40,8.90%,FL07337008
+469,Leon,18,Kershaw sand, 0 to 5 percent slopes,Kershaw sand,21,703.00,4.80%,FL07337016
+470,Leon,5,Blanton fine sand, 0 to 5 percent slopes,Blanton fine sand,20,895.60,4.70%,FL07337007
+471,Leon,47,Talquin fine sand,Talquin fine sand,20,457.20,4.60%,FL07337021
+472,Leon,1,Albany loamy sand,Albany loamy sand,18,810.40,4.20%,FL07337002
+473,Leon,3,Alpin sand, 0 to 5 percent slopes,Alpin sand,17,596.80,3.90%,FL07337023
+474,Leon,8,Chipley fine sand, 0 to 2 percent slopes,Chipley fine sand,12,112.60,2.70%,FL07337013
+475,Leon,39,Pelham fine sand,Pelham fine sand,11,065.60,2.50%,FL07337029
+476,Leon,23,Leon sand,Leon sand,7,877.60,1.80%,FL07337028
+477,Leon,28,Meggett soils, frequently flooded,Meggett soils,6,596.10,1.50%,FL07337031
+478,Leon,25,Lucy fine sand, 5 to 8 percent slopes,Lucy fine sand,6,195.60,1.40%,FL07337006
+479,Leon,26,Lutterloh fine sand, 0 to 5 percent slopes,Lutterloh fine sand,5,368.70,1.20%,FL07337022
+480,Leon,16,Fuquay fine sand, 0 to 5 percent slopes,Fuquay fine sand,5,028.40,1.10%,FL07337025
+481,Leon,15,Foxworth sand, 0 to 5 percent slopes,Foxworth sand,4,560.30,1.00%,FL07337003
+482,Leon,32,Ocilla fine sand,Ocilla fine sand,4,372.90,1.00%,FL07337026
+483,Leon,50,Wagram loamy fine sand, 0 to 5 percent slopes,Wagram loamy fine sand,4,199.60,0.90%,FL07337012
+484,Leon,29,Norfolk loamy fine sand, 2 to 5 percent slopes,Norfolk loamy fine sand,3,520.40,0.80%,FL07337004
+485,Leon,22,Leefield loamy sand,Leefield loamy sand,2,776.90,0.60%,FL07337017
+486,Levy,8,Smyrna fine sand,Smyrna fine sand,64,383.40,8.20%,FL07538002
+487,Levy,6,Candler fine sand, 1 to 5 percent slopes,Candler fine sand,60,063.00,7.70%,FL07538010
+488,Levy,39,Waccasassa complex, flooded,Waccasassa complex,50,556.60,6.40%,FL07538008
+489,Levy,12,Otela- complex, 1 to 5 percent slopes,Otela- complex,41,024.10,,FL07538005
+490,Levy,13,Wekiva fine sand,Wekiva fine sand,39,447.90,5.00%,FL07538017
+491,Levy,31,Jonesville complex, 1 to 5 percent slopes,Jonesville complex,29,860.50,3.80%,FL07538006
+492,Levy,14,Shadeville complex, 1 to 5 percent slopes,Shadeville complex,19,434.10,2.50%,FL07538003
+493,Levy,55,Pedro complex, 0 to 5 percent slopes,Pedro complex,14,294.90,1.80%,FL07538025
+494,Levy,76,Astatula fine sand, 1 to 8 percent slopes,Astatula fine sand,12,891.80,1.60%,FL07538011
+495,Levy,41,Demory muck, occasionally flooded,Demory muck,11,121.90,1.40%,FL07538021
+496,Levy,2,Tavares fine sand, 1 to 5 percent slopes,Tavares fine sand,7,772.70,1.00%,FL07538009
+497,Levy,48,Lutterloh-complex, 0 to 5 percent slopes,Lutterloh-complex,6,213.90,0.80%,FL07538026
+498,Levy,,Moriah complex, 0 to 5 percent slopes,Moriah complex,,,FL07538027
+499,Levy,3,Orsino fine sand, 0 to 8 percent slopes,Orsino fine sand,4,682.80,0.60%,FL07538001
+500,Levy,19,Sparr fine sand,Sparr fine sand,4,710.80,0.60%,FL07538012
+501,Levy,,Mabel, complex, 0 to 5 percent slopes,Mabel complex,,,FL07538024
+502,Levy,18,Wauchula fine sand,Wauchula fine sand,4,183.40,0.50%,FL07538018
+503,Levy,,Matmon complex,Matmon complex,,,FL07538028
+504,Levy,66,Levyville complex, 2 to 5 percent slopes,Levyville complex,2,521.30,0.30%,FL07538004
+505,Levy,4,Millhopper fine sand, 1 to 5 percent slopes,Millhopper fine sand,1,282.30,0.20%,FL07538020
+506,Levy,49,Hicoria fine sand,Hicoria fine sand,1,026.60,0.10%,FL07538022
+507,Liberty,12,Rutlege soils, depressional,Rutlege soils,67,192.60,12.40%,FL12965001
+508,Liberty,34,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,34,228.70,6.30%,FL12965010
+509,Liberty,46,Hurricane, soils,Hurricane soils,16,351.90,3.00%,FL01307007
+510,Liberty,,Albany soils,Albany soils,,,FL01307014
+511,Liberty,5,Rains soils,Rains soils,15,918.70,2.90%,FL04523017
+512,Liberty,,Bladen soils,Bladen soils,,,FL04523020
+513,Liberty,,Dorovan soils, frequently flooded,Dorovan soils,,,FL03719019
+514,Liberty,2,Albany sand, 0 to 5 percent slopes,Albany sand,11,499.90,2.10%,FL04523008
+515,Liberty,,Pelham soils,Pelham soils,,,FL03719018
+516,Liberty,26,Foxworth sand, 0 to 5 percent slopes,Foxworth sand,9,243.30,1.70%,FL12965007
+517,Liberty,11,Chipley-complex, 0 to 5 percent slopes,Chipley-complex,8,459.70,1.60%,FL01307011
+518,Liberty,39,Leon sand,Leon sand,8,219.30,1.50%,FL03719006
+519,Liberty,56,Pottsburg sand,Pottsburg sand,7,459.40,1.40%,FL01307015
+520,Liberty,6,Blanton sand, 0 to 5 percent slopes,Blanton sand,6,925.10,1.30%,FL04523009
+521,Liberty,27,Fuquay loamy sand, 0 to 5 percent slopes,Fuquay loamy sand,4,643.00,0.90%,FL04523007
+522,Liberty,49,Meadowbrook sand, slough,Meadowbrook sand,4,564.00,0.80%,FL03719020
+523,Liberty,63,Stilson fine sand, 0 to 3 percent slopes,Stilson fine sand,4,050.80,0.80%,FL03719014
+524,Liberty,38,Leefield loamy sand, 0 to 5 percent slopes,Leefield loamy sand,3,019.00,0.60%,FL01307016
+525,Liberty,9,Centenary sand, 0 to 5 percent slopes,Centenary sand,2,844.80,0.50%,FL13007008
+526,Liberty,14,Dothan loamy sand, 0 to 2 percent slopes,Dothan loamy sand,2,319.90,0.40%,FL01307001
+527,Liberty,81,Scranton fine sand,Scranton fine sand,1,901.10,0.40%,FL03719007
+528,Liberty,69,Troup sand, 0 to 5 percent slopes,Troup sand,1,655.10,0.30%,FL01307013
+529,Liberty,54,Pelham loamy sand,Pelham loamy sand,1,120.00,0.20%,FL04523025
+530,Liberty,60,Sapelo sand,Sapelo sand,1,122.50,0.20%,FL04523015
+531,Madison,,Pamlico soils, depressional,Pamlico soils,,,FL07940016
+532,Madison,5,Blanton sand, 0 to 5 percent slopes,Blanton sand,65,723.00,14.40%,FL07940009
+533,Madison,2,Albany sand, 0 to 5 percent slopes,Albany sand,42,201.10,9.20%,FL07940012
+534,Madison,48,Surrency soils, depressional,Surrency soils,41,742.50,9.10%,FL07940021
+535,Madison,3,Alpin sand,Alpin sand,28,433.70,6.20%,FL07940010
+536,Madison,23,Plummer sand,Plummer sand,28,204.50,6.20%,FL07940018
+537,Madison,65,Lovett sand, 0 to 5 percent slopes,Lovett sand,19,106.00,4.20%,FL07940006
+538,Madison,30,Ocilla sand, 0 to 5 percent slopes,Ocilla sand,14,973.80,3.30%,FL07940020
+539,Madison,55,Esto fine sandy loam, 2 to 5 percent slopes,Esto fine sandy loam,8,247.20,1.80%,FL07940014
+540,Madison,13,Lucy sand, 2 to 5 percent slopes,Lucy sand,6,664.70,1.50%,FL07940007
+541,Madison,61,Alaga loamy sand, 0 to 5 percent slopes,Alaga loamy sand,6,765.60,1.50%,FL07940003
+542,Madison,22,Pelham sand,Pelham sand,6,153.40,1.30%,FL07940019
+543,Madison,26,Troup sand, 0 to 5 percent slopes,Troup sand,6,143.20,1.30%,FL07940011
+544,Manatee,20,EauGallie fine sand,EauGallie fine sand,91,131.10,16.60%,FL02714011
+545,Manatee,30,Myakka fine sand, 0 to 2 percent slopes,Myakka fine sand,88,144.70,16.00%,FL04925014
+546,Manatee,,Immokalee association,Immokalee association,,,FL02714005
+547,Manatee,42,Pomello fine sand, 0 to 2 percent slopes,Pomello fine sand,24,045.70,4.40%,FL04925015
+548,Manatee,,Pomona complex,Pomona complex,,,FL04925010
+549,Manatee,11,Cassia fine sand,Cassia fine sand,18,381.90,3.30%,FL04925004
+550,Manatee,48,Wabasso fine sand,Wabasso fine sand,14,734.00,2.70%,FL02714017
+551,Manatee,5,Bradenton fine sand, limestone substratum,Bradenton fine sand,8,283.80,1.50%,FL02714013
+552,Manatee,35,Ona fine sand, orstein substratum,Ona fine sand,6,654.00,1.20%,FL02714018
+553,Manatee,45,Tavares fine sand, 0 to 5 percent slopes,Tavares fine sand,3,513.50,0.60%,FL02714003
+554,Manatee,22,Felda fine sand,Felda fine sand,2,658.30,0.50%,FL04925200
+555,Manatee,54,Zolfo fine sand, 0 to 2 percent slopes,Zolfo fine sand,2,665.60,0.50%,FL04925005
+556,Marion,9,Arredondo sand, 0 to 5 percent slopes,Arredondo sand,78,612.50,10.90%,FL08342119
+557,Marion,44,Kendrick loamy sand, 0 to 5 percent slopes,Kendrick loamy sand,36,964.10,5.10%,FL08342075
+558,Marion,65,Sparr fine sand, 0 to 5 percent slopes,Sparr fine sand,25,632.00,3.60%,FL08342065
+559,Marion,46,Lochloosa fine sand, 0 to 5 percent slopes,Lochloosa fine sand,14,032.30,1.90%,FL08342053
+560,Marion,,Martel complex, depressional,Martel complex,,,FL08342104
+561,Marion,42,Jumper fine sand, 0 to 5 percent slopes,Jumper fine sand,5,422.60,0.80%,FL08342091
+562,Marion,20,Boardman loamy sand, 5 to 8 percent slopes,Boardman loamy sand,4,871.50,0.70%,FL08342126
+563,Marion,25,Eaton loamy sand,Eaton loamy sand,5,306.50,0.70%,FL08342085
+564,Marion,35,Gainesville loamy sand, 0 to 5 percent slopes,Gainesville loamy sand,5,404.80,0.70%,FL08342012
+565,Marion,73,Wacahoota loamy sand, 5 to 8 percent slopes,Wacahoota loamy sand,5,079.80,0.70%,FL08342125
+566,Marion,19,Bluff sandy clay, frequently flooded,Bluff sandy clay,4,097.10,0.60%,FL08342063
+567,Martin,21,Pineda fine sands,Pineda fine sands,49,689.00,9.60%,FL08543005
+568,Martin,4,Waveland fine sands,Waveland fine sands,46,262.40,8.90%,FL08543003
+569,Martin,17,Wabasso sand,Wabasso sand,34,241.80,6.60%,FL08543024
+570,Martin,49,Riviera fine sand, depressional,Riviera fine sand,31,703.20,6.10%,FL08543018
+571,Martin,63,Nettles sand,Nettles sand,14,964.90,2.90%,FL08543001
+572,Martin,2,Lawnwood fine sands,Lawnwood fine sands,13,355.60,2.60%,FL08543002
+573,Martin,52,Malabar fine sand, high,Malabar fine sand,13,585.80,2.60%,FL08543021
+574,Martin,47,Pinellas fine sand,Pinellas fine sand,9,920.10,1.90%,FL08543017
+575,Martin,19,Winder sand, depressional,Winder sand,8,507.80,1.60%,FL08543019
+576,Martin,57,Chobee loamy sand, depressional,Chobee loamy sand,6,598.60,1.30%,FL08543022
+577,Martin,35,Salerno sand,Salerno sand,6,246.60,1.20%,FL08543004
+578,Martin,44,Boca fine sand,Boca fine sand,5,055.50,1.00%,FL08543016
+579,Martin,,Gator  mucks,Gator  mucks,4,465.90,0.90%,FL08543015
+580,Martin,41,Jonathan sand, 0 to 5 percent slopes,Jonathan sand,3,631.70,0.70%,FL08543010
+581,Martin,42,Hallandale sand,Hallandale sand,3,450.60,0.70%,FL08543013
+582,Martin,48,Jupiter sand,Jupiter sand,2,999.00,0.60%,FL08543014
+583,Martin,14,Archbold sand,Archbold sand,1,595.40,0.30%,FL08543009
+584,Martin,30,Bessie muck,Bessie muck,1,488.10,0.30%,FL08543007
+585,Martin,28,Canaveral sand, 0 to 5 percent slopes,Canaveral sand,974.10,0.20%,FL08543011
+586,Miami-Dade,12,Perrine marl,Perrine marl,32,789.70,4.90%,Fl08613001
+587,Miami-Dade,16,Biscayne marl, drained,Biscayne marl,18,067.50,2.70%,Fl08613200
+588,Miami-Dade,6,Perrine marl, drained,Perrine marl,11,905.20,1.80%,Fl08613203
+589,Miami-Dade,26,Perrine marl, tidal,Perrine marl,8,770.60,1.30%,Fl08613005
+590,Miami-Dade,5,Pennsuco marl,Pennsuco marl,7,138.10,1.10%,Fl08613204
+591,Monroe,6,Keylargo muck, tidal,Keylargo muck,11,795.90,5.80%,FL08744004
+592,Monroe,2,Pennekamp gravelly muck, 0-2 percent slopes, extremely stony,Pennekamp gravelly muck,7,443.00,3.70%,FL08744003
+593,Monroe,5,Islamorada muck, tidal,Islamorada muck,7,425.10,3.70%,FL08744007
+594,Monroe,15,Cudjoe marl, tidal,Cudjoe marl,5,564.20,2.80%,FL08744006
+595,Monroe,19,Saddlebunch marl, occasionally flooded,Saddlebunch marl,1,870.40,0.90%,FL08744011
+596,Monroe,9,Lignumvitae marl, tidal,Lignumvitae marl,1,652.80,0.80%,FL08744005
+597,Monroe,17,Keywest marl, tidal,Keywest marl,647.50,0.30%,FL08744008
+598,Monroe,16,Bahiahonda fine sand, 0 to 3 percent slopes,Bahiahonda fine sand,412.40,0.20%,FL08744009
+599,Nassau,13,Goldhead fine sand,Goldhead fine sand,52,437.40,12.10%,FL08945026
+600,Nassau,9,Leon fine sand,Leon fine sand,37,610.70,8.70%,FL08945027
+601,Nassau,36,Boulogne fine sand,Boulogne fine sand,33,147.20,7.70%,FL08945015
+602,Nassau,15,Buccaneer clay, frequently flooded,Buccaneer clay,26,800.90,6.20%,FL08945017
+603,Nassau,37,Meggett loamy fine sand,Meggett loamy fine sand,24,894.10,5.80%,FL08945018
+604,Nassau,11,Chaires fine sand,Chaires fine sand,23,944.40,5.50%,FL08945022
+605,Nassau,24,Kingsferry fine sand,Kingsferry fine sand,18,623.00,4.30%,FL08945028
+606,Nassau,39,Evergreen mucks depressional-,Evergreen mucks depressional-,15,920.00,3.70%,FL08945014
+607,Nassau,6,Hurricane fine sand, 0 to 5 percent slopes,Hurricane fine sand,15,135.50,3.50%,FL08945008
+608,Nassau,51,Albany fine sand, 0 to 5 percent slopes,Albany fine sand,8,767.10,2.00%,FL08945007
+609,Nassau,53,Meadowbrook fine sand,Meadowbrook fine sand,4,641.30,1.10%,FL08945025
+610,Nassau,54,Sapelo fine sand,Sapelo fine sand,4,369.60,1.00%,FL08945021
+611,Nassau,10,Mandarin fine sand,Mandarin fine sand,3,305.10,0.80%,FL08945010
+612,Nassau,23,Ocilla fine sand, 0 to 5 percent slopes,Ocilla fine sand,1,915.70,0.40%,FL08945023
+613,Okaloosa,12,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,216,080.60,33.90%,FL09146005
+614,Okaloosa,23,Troup sand, 0 to 5 percent slopes,Troup sand,34,110.60,5.40%,FL09146009
+615,Okaloosa,39,Dothan loamy sand, 2 to 5 percent slopes,Dothan loamy sand,23,394.40,3.70%,FL09146022
+616,Okaloosa,36,Bonifay sand, 0 to 5 percent slopes,Bonifay sand,17,628.80,2.80%,FL09146020
+617,Okaloosa,,Bigbee soils, occasionally flooded,Bigbee soils,,,FL09146011
+618,Okaloosa,52,Escambia fine sandy loam, 0 to 3 percent slopes,Escambia fine sandy loam,13,210.10,2.10%,FL09146021
+619,Okaloosa,41,Fuquay loamy fine sand, 0 to 5 percent slopes,Fuquay loamy fine sand,10,614.60,1.70%,FL09146016
+620,Okaloosa,4,Chipley , 0 to 5 percent slopes,Chipley ,10,093.30,1.60%,FL09146013
+621,Okaloosa,,Hurricane soils, 0 to 5 percent slopes,Hurricane soils,,,FL09146010
+622,Okaloosa,8,Foxworth sand, 0 to 5 percent slopes,Foxworth sand,6,242.40,1.00%,FL09146014
+623,Okaloosa,45,Orangeburg sandy loam, 0 to 2 percent slopes,Orangeburg sandy loam,5,720.80,0.90%,FL09146007
+624,Okaloosa,44,Leefield- complex, 0 to 5 percent slopes,Leefield- complex,4,367.70,0.70%,FL09146018
+625,Okaloosa,10,Kureb sand, 0 to 8 percent slopes,Kureb sand,3,612.80,0.60%,FL09146001
+626,Okeechobee,11,Immokalee fine sand,Immokalee fine sand,110,046.80,19.30%,FL06131003
+627,Okeechobee,7,Floridana, soils, depressional,Floridana soils,41,494.30,7.30%,FL06131017
+628,Okeechobee,,Placid soils, depressional,Placid soils,,,FL05528023
+629,Okeechobee,5,Valkaria fine sand,Valkaria fine sand,36,898.50,6.50%,FL05528009
+630,Okeechobee,2,Basinger fine sand,Basinger fine sand,33,539.90,5.90%,FL05528017
+631,Okeechobee,20,Pomello fine sand, 0 to 5 percent slopes,Pomello fine sand,6,772.50,1.20%,FL05528022
+632,Okeechobee,6,Manatee loamy fine sand, depressional,Manatee loamy fine sand,4,260.30,0.70%,FL06131005
+633,Okeechobee,8,Pineda fine sand,Pineda fine sand,4,150.60,0.70%,FL04322001
+634,Okeechobee,4,Bradenton fine sand,Bradenton fine sand,2,753.30,0.50%,FL05528012
+635,Okeechobee,17,Orsino fine sand,Orsino fine sand,745.90,0.10%,FL06131018
+636,Orange,3,Basinger fine sand, depressional,Basinger fine sand,33,254.20,5.20%,FL00705016
+637,Orange,4,Candler fine sand, 0 to 5 percent slopes,Candler fine sand,28,989.00,4.50%,FL06935004
+638,Orange,23,Malabar fine sand,Malabar fine sand,20,675.00,3.20%,FL00705015
+639,Orange,47,Tavares fine sands, 0 to 5 percent slopes,Tavares fine sands,18,003.20,2.80%,FL06935005
+640,Orange,,Millhopper fine sands, 0 to 5 percent slopes,Millhopper fine sands,,,FL06935003
+641,Orange,,Holopaw fine sands, frequently flooded,Holopaw fine sands,,,FL00705041
+642,Orange,15,Felda fine sand, frequently flooded,Felda fine sand,6,297.00,1.00%,FL00705005
+643,Orange,38,St. Lucie fine sand, 0 to 5 percent slopes,St. Lucie fine sand,3,826.70,0.60%,FL00705027
+644,Orange,31,Pineda fine sand, frequently flooded,Pineda fine sand,1,136.50,0.20%,FL00705017
+645,Orange,36,Pompano fine sand,Pompano fine sand,328.90,0.10%,FL00705048
+646,Osceola,42,Smyrna fine sand,Smyrna fine sand,188,783.60,19.60%,FL09749029
+647,Osceola,22,Myakka fine sand,Myakka fine sand,123,051.20,12.80%,FL09749010
+648,Osceola,11,EauGallie fine sand,EauGallie fine sand,42,887.40,4.40%,FL09749027
+649,Osceola,32,Placid fine sand, depressional,Placid fine sand,38,694.10,4.00%,FL09749024
+650,Osceola,40,Samsula muck,Samsula muck,27,903.80,2.90%,FL09749019
+651,Osceola,15,Hontoon muck,Hontoon muck,24,694.10,2.60%,FL09749013
+652,Osceola,34,Pomello fine sand, 0 to 5 percent slopes,Pomello fine sand,13,651.20,1.40%,FL09749002
+653,Osceola,17,Kaliga muck,Kaliga muck,10,213.20,1.10%,FL09749014
+654,Osceola,18,Lokosee fine sand,Lokosee fine sand,10,875.40,1.10%,FL09749022
+655,Osceola,10,Delray loamy fine sand, depressional,Delray loamy fine sand,9,704.90,1.00%,FL09749023
+656,Osceola,45,Wabasso fine sand,Wabasso fine sand,9,522.10,1.00%,FL09749016
+657,Osceola,26,Oldsmar fine sand,Oldsmar fine sand,7,769.30,0.80%,FL09749030
+658,Osceola,35,Pomona fine sand,Pomona fine sand,8,041.10,0.80%,FL09749012
+659,Osceola,9,Cassia fine sand,Cassia fine sand,6,385.10,0.70%,FL09749011
+660,Osceola,44,Tavares fine sand, 0 to 5 percent slopes,Tavares fine sand,6,297.60,0.70%,FL09749004
+661,Osceola,47,Winder loamy fine sand,Winder loamy fine sand,5,774.30,0.60%,FL09749031
+662,Osceola,1,Adamsville sand,Adamsville sand,5,224.00,0.50%,FL09749017
+663,Osceola,13,Gentry fine sand,Gentry fine sand,4,390.50,0.50%,FL09749021
+664,Osceola,41,Satellite sand,Satellite sand,3,603.50,0.40%,FL09749009
+665,Osceola,43,St. Lucie fine sand, 0 to 5 percent slopes,St. Lucie fine sand,2,542.90,0.30%,FL09749007
+666,Osceola,8,Candler sand, 5 to 12 percent slopes,Candler sand,2,148.30,0.20%,FL09749005
+667,Osceola,29,Parkwood loamy fine sand, occasionally flooded,Parkwood loamy fine sand,1,432.80,0.10%,FL09749026
+668,Osceola,28,Paola sand, 0 to 5 percent slopes,Paola sand,478.30,0.00%,FL09749006
+669,Osceola,,Riviera complex, frequently flooded,Riviera complex,,,FL09749015
+670,Palm Beach,43,Terra Ceia muck,Terra Ceia muck,225,830.00,17.70%,FL09950004
+671,Palm Beach,26,Pahokee muck,Pahokee muck,202,353.60,15.90%,FL09950008
+672,Palm Beach,36,Riviera fine sand,Riviera fine sand,76,161.10,6.00%,FL09950002
+673,Palm Beach,20,Lauderhill muck,Lauderhill muck,66,916.70,5.30%,FL09950027
+674,Palm Beach,21,Myakka fine sand,Myakka fine sand,45,943.80,3.60%,FL09950201
+675,Palm Beach,46,Torry muck,Torry muck,44,845.20,3.50%,FL09950005
+676,Palm Beach,10,Boca fine sand,Boca fine sand,28,150.10,2.20%,FL09950024
+677,Palm Beach,18,Immokalee fine sand,Immokalee fine sand,28,333.90,2.20%,FL09950017
+678,Palm Beach,6,Basinger fine sand,Basinger fine sand,23,378.70,1.80%,FL09950022
+679,Palm Beach,24,Okeelanta muck,Okeelanta muck,22,903.40,1.80%,FL09950006
+680,Palm Beach,41,St. Lucie- complex, 0 to 8 percent slopes,St. Lucie- complex,21,808.00,1.70%,FL09950020
+681,Palm Beach,,Paola-complex, 0 to 8 percent slopes,Paola-complex,,,FL09950021
+682,Palm Beach,17,Holopaw fine sand,Holopaw fine sand,16,268.10,1.30%,FL09950032
+683,Palm Beach,29,Pineda fine sand,Pineda fine sand,15,943.10,1.30%,FL09950010
+684,Palm Beach,25,Oldsmar sand,Oldsmar sand,15,272.70,1.20%,FL09950033
+685,Palm Beach,49,Wabasso fine sand,Wabasso fine sand,12,477.90,1.00%,FL09950013
+686,Palm Beach,42,Tequesta muck,Tequesta muck,8,159.80,0.60%,FL09950028
+687,Palm Beach,33,Pomello fine sand, 0 to 5 percent slopes,Pomello fine sand,6,353.30,0.50%,FL09950023
+688,Palm Beach,16,Hallandale fine sand,Hallandale fine sand,5,594.00,0.40%,FL09950026
+689,Palm Beach,34,Pompano fine sand,Pompano fine sand,3,289.70,0.30%,FL09950200
+690,Palm Beach,39,Sanibel muck,Sanibel muck,4,405.60,0.30%,FL09950016
+691,Palm Beach,2,Anclote fine sand,Anclote fine sand,2,525.40,0.20%,FL09950007
+692,Palm Beach,14,Dania muck,Dania muck,1,270.90,0.10%,FL09950018
+693,Palm Beach,19,Jupiter fine sand,Jupiter fine sand,1,646.10,0.10%,FL09950019
+694,Palm Beach,27,Palm Beach-complex, 0 to 8 percent slopes,Palm Beach-complex,1,682.90,0.10%,FL09950025
+695,Pasco,6,Tavares sand, 0 to 5 percent slopes,Tavares sand,38,526.00,7.20%,FL10151022
+696,Pasco,2,Pomona fine sand,Pomona fine sand,35,730.80,6.70%,FL10151008
+697,Pasco,8,Sellers mucky loamy fine sand,Sellers mucky loamy fine sand,32,230.80,6.00%,FL10151004
+698,Pasco,39,Chobee soils, frequently flooded,Chobee soils,30,494.30,5.70%,FL10151034
+699,Pasco,13,Candler fine sand, 0 to 5 percent slopes,Candler fine sand,29,354.70,5.50%,FL10151029
+700,Pasco,21,Smyrna fine sand,Smyrna fine sand,29,710.80,5.50%,FL10151023
+701,Pasco,11,Adamsville fine sand,Adamsville fine sand,23,518.40,4.40%,FL10151021
+702,Pasco,32,Lake fine sand, 0 to 5 percent slopes,Lake fine sand,16,458.70,3.10%,FL10151031
+703,Pasco,35,EauGallie fine sand,EauGallie fine sand,12,360.50,2.30%,FL10151011
+704,Pasco,69,Millhopper fine sand, 0 to 5 percent slopes,Millhopper fine sand,8,444.10,1.60%,FL10151024
+705,Pasco,26,Narcoossee fine sand,Narcoossee fine sand,7,766.50,1.40%,FL10151001
+706,Pasco,45,Kendrick fine sand, 0 to 5 percent slopes,Kendrick fine sand,7,277.50,1.40%,FL10151014
+707,Pasco,1,Wauchula fine sand, 0 to 5 percent slopes,Wauchula fine sand,5,964.30,1.10%,FL10151005
+708,Pasco,48,Lochloosa fine sand, 0 to 5 percent slopes,Lochloosa fine sand,4,635.30,0.90%,FL10151018
+709,Pasco,52,Samsula muck,Samsula muck,4,426.20,0.80%,FL10151027
+710,Pasco,55,Homosassa mucky fine sandy loam,Homosassa mucky fine sandy loam,4,108.90,0.80%,FL10151016
+711,Pasco,59,Newnan fine sand, 0 to 5 percent slopes,Newnan fine sand,4,388.80,0.80%,FL10151010
+712,Pasco,42,Pomello fine sand, 0 to 5 percent slopes,Pomello fine sand,3,667.70,0.70%,FL10151032
+713,Pasco,10,Wabasso fine sand,Wabasso fine sand,3,190.30,0.60%,FL10151002
+714,Pasco,17,Immokalee fine sand,Immokalee fine sand,3,246.40,0.60%,FL10151035
+715,Pasco,20,Aripeka fine sand,Aripeka fine sand,2,586.80,0.50%,FL10151030
+716,Pasco,4,Felda fine sand,Felda fine sand,1,975.10,0.40%,FL10151007
+717,Pasco,73,Zolfo fine sand,Zolfo fine sand,2,185.20,0.40%,FL10151033
+718,Pasco,74,Candler Variant fine sand, 0 to 5 percent slopes,Candler Variant fine sand,1,396.40,0.30%,FL10151028
+719,Pasco,72,Orlando fine sand, 0 to 5 percent slopes,Orlando fine sand,652.90,0.10%,FL10151036
+720,Pinellas,29,Tavares soils , 0 to 5 percent slopes,Tavares soils ,14,167.70,3.70%,Fl10151022
+721,Pinellas,13,Immokalee soils,Immokalee soils,9,939.60,2.60%,FL10151035
+722,Pinellas,31,Wabasso soils,Wabasso soils,7,810.40,2.00%,FL10151002
+723,Pinellas,22,Pineda soils and Urban land,Pineda soils and Urban land,4,778.20,1.20%,FL10151037
+724,Polk County,,Myakka fine sands,Myakka fine sands,,,FL10553016
+725,Polk County,3,Candler sand, 0 to 5 percent slopes,Candler sand,97,563.50,7.60%,FL10553022
+726,Polk County,7,Pomona fine sand,Pomona fine sand,91,641.80,7.10%,FL10553002
+727,Polk County,13,Samsula muck,Samsula muck,53,929.40,4.20%,FL10553017
+728,Polk County,15,Tavares fine sand, 0 to 5 percent slopes,Tavares fine sand,53,715.30,4.20%,FL10553019
+729,Polk County,46,Astatula sand, 0 to 8 percent slopes,Astatula sand,40,495.90,3.10%,FL10553021
+730,Polk County,21,Immokalee sand,Immokalee sand,30,309.20,2.40%,FL10553009
+731,Polk County,32,Kaliga muck,Kaliga muck,26,107.80,2.00%,FL10553018
+732,Polk County,14,Sparr sand, 0 to 5 percent slopes,Sparr sand,20,100.20,1.60%,FL10553005
+733,Polk County,47,Zolfo fine sand,Zolfo fine sand,13,106.60,1.00%,FL10553006
+734,Polk County,23,Ona fine sand,Ona fine sand,11,845.40,0.90%,FL10553013
+735,Polk County,2,Apopka fine sand, 0 to 5 percent slopes,Apopka fine sand,8,774.10,0.70%,FL10553004
+736,Polk County,24,Nittaw sandy clay loam, frequently flooded,Nittaw sandy clay loam,8,782.80,0.70%,FL10553011
+737,Polk County,74,Narcoossee sand,Narcoossee sand,8,495.80,0.70%,FL10553024
+738,Polk County,77,Satellite sand,Satellite sand,9,440.50,0.70%,FL10553014
+739,Polk County,83,Archbold sand, 0 to 5 percent slopes,Archbold sand,9,300.80,0.70%,FL10553023
+740,Polk County,62,Wabasso fine sand,Wabasso fine sand,7,518.60,0.60%,FL10553012
+741,Polk County,20,Fort Meade sand, 0 to 5 percent slopes,Fort Meade sand,6,847.10,0.50%,FL10553007
+742,Polk County,9,Lynne sand,Lynne sand,5,331.00,0.40%,FL10553003
+743,Polk County,67,Bradenton fine sand,Bradenton fine sand,4,915.30,0.40%,FL10553010
+744,Polk County,27,Kendrick fine sand, 0 to 5 percent slopes,Kendrick fine sand,3,228.10,0.30%,FL10553008
+745,Ocala National Forest Area,,Astatula sand, 0 to 8 percent slopes,Astatula sand,167,433.60,35.70%,FL10754016
+746,Ocala National Forest Area,,Paola sand, 0 to 8 percent slopes,Paola sand,27,248.60,5.80%,FL10754015
+747,Santa Rosa,44,Troup loamy sand, 0 to 5 percent slopes,Troup loamy sand,112,589.10,15.30%,FL11357018
+748,Santa Rosa,21,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,95,464.90,13.00%,FL11357021
+749,Santa Rosa,9,Dothan fine sandy loam, 2 to 5 percent slopes,Dothan fine sandy loam,48,895.30,6.60%,FL11357026
+750,Santa Rosa,5,Bonifay loamy sand, 0 to 5 percent slopes,Bonifay loamy sand,27,637.50,3.80%,FL11357012
+751,Santa Rosa,25,Lucy loamy sand, 0 to 5 percent slopes,Lucy loamy sand,23,317.50,3.20%,FL11357027
+752,Santa Rosa,34,Pactolus loamy sand, 0 to 5 percent slopes,Pactolus loamy sand,21,312.70,2.90%,FL11357022
+753,Santa Rosa,14,Fuquay loamy sand, 0 to 5 percent slopes,Fuquay loamy sand,20,197.40,2.70%,FL11357039
+754,Santa Rosa,38,Red Bay sandy loam, 0 to 2 percent slopes,Red Bay sandy loam,18,219.40,2.50%,FL11357024
+755,Santa Rosa,7,Dorovan-association,Dorovan-association,17,144.20,2.30%,FL11357015
+756,Santa Rosa,30,Orangeburg sandy loam, 0 to 2 percent slopes,Orangeburg sandy loam,12,906.20,1.80%,FL11357019
+757,Santa Rosa,40,Rutlege loamy sand,Rutlege loamy sand,12,967.30,1.80%,FL11357040
+758,Santa Rosa,4,Bohicket,Bohicket,7,350.00,1.00%,FL11357045
+759,Santa Rosa,24,Leon sand, 0 to 2 percent slopes,Leon sand,5,574.00,0.80%,FL11357046
+760,Santa Rosa,1,Albany loamy sand, 0 to 5 percent slopes,Albany loamy sand,5,470.30,0.70%,FL11357037
+761,Santa Rosa,29,Mulat loamy fine sand,Mulat loamy fine sand,4,896.00,0.70%,FL11357041
+762,Santa Rosa,11,Escambia fine sandy loam, 0 to 2 percent slopes,Escambia fine sandy loam,2,679.20,0.40%,FL11357023
+763,Santa Rosa,20,Kureb sand, 0 to 8 percent slopes,Kureb sand,3,291.10,0.40%,FL11357047
+764,Santa Rosa,54,Foxworth sand, 0 to 5 percent slopes,Foxworth sand,2,177.80,0.30%,FL11357009
+765,Santa Rosa,2,Angie variant loam,Angie variant loam,1,707.00,0.20%,FL11357032
+766,Santa Rosa,12,Esto loam, 2 to 5 percent slopes,Esto loam,1,823.70,0.20%,FL11357038
+767,Santa Rosa,19,Kalmia loamy fine sand, 2 to 5 percent slopes,Kalmia loamy fine sand,1,430.20,0.20%,FL11357036
+768,Santa Rosa,28,Maxton loamy fine sand, 2 to 5 percent slopes,Maxton loamy fine sand,491.60,0.10%,FL11357031
+769,Santa Rosa,41,Tifton sandy loam, 0 to 2 percent slopes,Tifton sandy loam,793.30,0.10%,FL11357033
+770,Sarasota,10,EauGallie fine sands,EauGallie fine sands,168,415.20,42.00%,FL01508012
+771,Sarasota,12,Felda fine sand, depressional,Felda fine sand,13,506.80,3.40%,FL01508003
+772,Sarasota,4,Bradenton fine sand,Bradenton fine sand,8,357.00,2.10%,FL01508008
+773,Sarasota,25,Malabar fine sand,Malabar fine sand,2,776.00,0.70%,FL01508004
+774,Sarasota,17,Gator muck,Gator muck,1,501.70,0.40%,FL01508009
+775,Sarasota,3,Boca soils,Boca soils,954.00,0.20%,FL01508002
+776,Sarasota,38,Smyrna fine sand,Smyrna fine sand,961.80,0.20%,FL01508007
+777,Seminole,20,Myakka fine sands,Myakka fine sands,29,570.90,13.40%,FL12764016
+778,Seminole,,EauGallie fine sands,EauGallie fine sands,,,FL12764024
+779,Seminole,10,Basinger, soils, depressional,Basinger soils,22,914.50,10.40%,FL12764029
+780,Seminole,31,Tavares fine sands, 0 to 5 percent slopes,Tavares fine sands,14,615.80,6.60%,FL12764014
+781,Seminole,,Millhopper fine sands, 0 to 5 percent slopes,Millhopper fine sands,,,FL12764012
+782,Seminole,6,Astatula fine sands, 0 to 5 percent slopes,Astatula fine sands,12,808.00,5.80%,FL12764004
+783,Seminole,19,Manatee, soils, frequently flooded,Manatee soils,8,482.50,3.80%,FL12764020
+784,Seminole,,Smyrna fine sands, depressional,Smyrna fine sands,,,FL12764011
+785,Seminole,16,Immokalee sand,Immokalee sand,5,034.30,2.30%,FL12764008
+786,Seminole,24,Paola sands, 0 to 5 percent slopes,Paola sands,4,683.80,2.10%,FL12764006
+787,Seminole,25,Pineda fine sand,Pineda fine sand,1,694.20,0.80%,FL12764002
+788,Seminole,18,Malabar fine sand,Malabar fine sand,1,527.60,0.70%,FL12764023
+789,St. Johns,9,Pomona fine sand,Pomona fine sand,32,042.80,7.20%,FL10955025
+790,St. Johns,34,Tocoi fine sand,Tocoi fine sand,20,590.60,4.60%,FL10955036
+791,St. Johns,7,Immokalee fine sand,Immokalee fine sand,20,241.50,4.50%,FL10955028
+792,St. Johns,24,Pellicer silty clay loam, frequently flooded,Pellicer silty clay loam,17,147.60,3.80%,FL10955010
+793,St. Johns,46,Holopaw fine sand,Holopaw fine sand,16,812.20,3.80%,FL10955008
+794,St. Johns,65,Riviera fine sand,Riviera fine sand,15,871.70,3.50%,FL10955031
+795,St. Johns,11,Smyrna fine sand,Smyrna fine sand,10,673.90,2.40%,FL10955032
+796,St. Johns,13,St. Johns fine sand,St. Johns fine sand,10,142.90,2.30%,FL10955026
+797,St. Johns,62,Floridana fine sand,Floridana fine sand,9,263.30,2.10%,FL10955035
+798,St. Johns,6,Tavares fine sand, 0 to 5 percent slopes,Tavares fine sand,8,236.10,1.80%,FL10955016
+799,St. Johns,8,Zolfo fine sand,Zolfo fine sand,7,447.80,1.70%,FL10955022
+800,St. Johns,64,Ellzey fine sand,Ellzey fine sand,6,175.60,1.40%,FL10955034
+801,St. Johns,58,EauGallie fine sand,EauGallie fine sand,5,988.70,1.30%,FL10955033
+802,St. Johns,2,Astatula fine sand, 0 to 8 percent slopes,Astatula fine sand,5,488.60,1.20%,FL10955011
+803,St. Johns,25,Parkwood fine sandy loam, frequently flooded,Parkwood fine sandy loam,5,482.70,1.20%,FL10955004
+804,St. Johns,44,Sparr fine sand, 0 to 5 percent slopes,Sparr fine sand,5,258.80,1.20%,FL10955021
+805,St. Johns,41,Tomoka muck,Tomoka muck,4,993.10,1.10%,FL10955020
+806,St. Johns,14,Cassia fine sand,Cassia fine sand,4,660.30,1.00%,FL10955029
+807,St. Johns,15,Pomello fine sand, 0 to 5 percent slopes,Pomello fine sand,4,452.00,1.00%,FL10955017
+808,St. Johns,22,Manatee fine sandy loam, frequently flooded,Manatee fine sandy loam,3,433.70,0.80%,FL10955003
+809,St. Johns,31,Fripp- complex,Fripp- complex,2,805.30,0.60%,FL10955027
+810,St. Johns,16,Orsino fine sand, 0 to 5 percent slopes,Orsino fine sand,2,376.80,0.50%,FL10955012
+811,St. Johns,27,St. Augustine fine sand,St. Augustine fine sand,1,702.60,0.40%,FL10955038
+812,St. Johns,49,Moultrie fine sand, frequently flooded,Moultrie fine sand,1,775.30,0.40%,FL10955005
+813,St. Johns,23,Paola fine sand, 0 to 8 percent slopes,Paola fine sand,1,482.90,0.30%,FL10955015
+814,St. Johns,67,Tisonia mucky peat, frequently flooded,Tisonia mucky peat,1,242.80,0.30%,FL10955039
+815,St. Johns,35,Hontoon muck,Hontoon muck,818.80,0.20%,FL10955018
+816,St. Johns,52,Durbin muck, frequently flooded,Durbin muck,784.90,0.20%,FL10955019
+817,St. Johns,33,Jonathan fine sand,Jonathan fine sand,64.80,0.00%,FL10955024
+818,St. Lucie,55,Winder loamy sand,Winder loamy sand,37,165.90,7.40%,FL11156033
+819,St. Lucie,38,Riviera fine sand,Riviera fine sand,32,037.50,6.30%,FL11156018
+820,St. Lucie,25,Nettles sand,Nettles sand,29,577.20,5.90%,FL11156013
+821,St. Lucie,,Oldsmar sand,Oldsmar sand,,,FL11156002
+822,St. Lucie,48,Wabasso sand,Wabasso sand,26,617.20,5.30%,FL11156016
+823,St. Lucie,50,Waveland fine sands,Waveland fine sands,22,546.80,4.50%,FL11156008
+824,St. Lucie,21,Lawnwood sand,Lawnwood sand,19,489.90,3.90%,FL11156030
+825,St. Lucie,2,Ankona sand,Ankona sand,11,613.00,2.30%,FL11156009
+826,St. Lucie,31,Pepper sand,Pepper sand,10,408.10,2.10%,FL11156031
+827,St. Lucie,23,Malabar fine sand,Malabar fine sand,6,893.80,1.40%,FL11156017
+828,St. Lucie,40,Samsula muck, depressional,Samsula muck,3,963.30,0.80%,FL11156023
+829,St. Lucie,,Pomona sands,Pomona sands,,,FL11156011
+830,St. Lucie,42,St. Lucie sand, 0 to 8 percent slopes,St. Lucie sand,2,084.90,0.40%,FL11156010
+831,St. Lucie,29,Pendarvis sand,Pendarvis sand,1,416.20,0.30%,FL11156026
+832,St. Lucie,,Wauchula sands,Wauchula sands,,,FL11156014
+833,St. Lucie,12,Electra fine sand, 0 to 5 percent slopes,Electra fine sand,1,062.50,0.20%,FL11156015
+834,St. Lucie,15,Hallandale sand,Hallandale sand,837.30,0.20%,FL11156005
+835,Sumter,4,Candler sand, 0 to 5 percent slopes,Candler sand,20,245.20,5.50%,FL11960005
+836,Sumter,9,Paisley fine sand, bouldery subsurface,Paisley fine sand,19,241.60,5.20%,FL11960002
+837,Sumter,61,EauGallie fine sand,EauGallie fine sand,14,214.80,3.80%,FL11960003
+838,Sumter,46,Ft. Green fine sand, bouldery subsurface,Ft. Green fine sand,12,227.50,3.30%,FL11960015
+839,Sumter,27,Sumterville fine sand, bouldery subsurface, 0 to 5 percent slopes,Sumterville fine sand,7,471.20,2.00%,FL11960004
+840,Sumter,8,Lake fine sand, 0 to 5 percent slopes,Lake fine sand,6,271.80,1.70%,FL11960017
+841,Sumter,11,Millhopper sand, 0 to 5 percent slopes,Millhopper sand,6,182.80,1.70%,FL11960006
+842,Sumter,31,Myakka sand,Myakka sand,5,213.70,1.40%,FL11960010
+843,Sumter,10,Sparr fine sand, 0 to 5 percent slopes,Sparr fine sand,4,396.70,1.20%,FL11960007
+844,Sumter,42,Adamsville fine sand,Adamsville fine sand,3,968.20,1.10%,FL11960012
+845,Sumter,39,Mabel fine sand, bouldery subsurface, 0 to 5 percent slopes,Mabel fine sand,3,639.90,1.00%,FL11960011
+846,Sumter,44,Oldsmar fine sand, bouldery subsurface,Oldsmar fine sand,3,859.10,1.00%,FL11960009
+847,Sumter,67,Wabasso fine sand,Wabasso fine sand,3,102.20,0.80%,FL11960001
+848,Sumter,1,Arredondo fine sand, 0 to 5 percent slopes,Arredondo fine sand,2,355.10,0.60%,FL11960016
+849,Suwannee,13,Blanton complex, 0 to 5 percent slopes,Blanton complex,90,141.10,20.30%,FL07940009
+850,Suwannee,,Alpin complex, 0 to 5 percent slopes,Alpin complex,,,FL07940010
+851,Suwannee,,Foxworth complex, 0 to 5 percent slopes,Foxworth complex,,,FL12134008
+852,Suwannee,,Sapelo complex,Sapelo complex,,,FL06734007
+853,Suwannee,26,Hurricane, soils, 0 to 3 percent slopes,Hurricane soils,6,467.10,1.50%,FL06734006
+854,Suwannee,,Albany, soils, 0 to 3 percent slopes,Albany soils,,,FL06734002
+855,Suwannee,,Chipley soils, 0 to 3 percent slopes,Chipley soils,,,FL07940023
+856,Suwannee,2,Ocilla complex, 0 to 5 percent slopes,Ocilla complex,5,600.20,1.30%,FL07940020
+857,Suwannee,,Plummer complex,Plummer complex,,,FL07940018
+858,Suwannee,6,Leon fine sand,Leon fine sand,69,036.20,9.60%,FL12362006
+859,Suwannee,12,Ortega fine sand, 0 to 5 percent slopes,Ortega fine sand,38,174.80,5.30%,FL12362010
+860,Suwannee,5,Chaires fine sand,Chaires fine sand,28,604.00,4.00%,FL12362008
+861,Suwannee,15,Ridgewood fine sand, 0 to 3 percent slopes,Ridgewood fine sand,24,817.10,3.50%,FL12362011
+862,Suwannee,23,Melvina- complex,Melvina- complex,24,860.20,3.50%,FL12362018
+863,Suwannee,,Moriah-complex,Moriah-complex,,,FL12362013
+864,Suwannee,13,Hurricane fine sand, 0 to 3 percent slopes,Hurricane fine sand,12,240.00,1.70%,FL12362012
+865,Suwannee,,Osier fine sands,Osier fine sands,,,FL12362007
+866,Suwannee,14,Chipley, 0 to 3 percent slopes,Chipley,6,467.50,0.90%,FL12362009
+867,Suwannee,19,Otela, 0 to 5 percent slopes,Otela,5,652.00,0.80%,FL12362016
+868,Suwannee,,Mandarin complex, 0 to 3 percent slopes,Mandarin complex,,,FL12362014
+869,Suwannee,8,Meadowbrook fine sand,Meadowbrook fine sand,1,598.60,0.20%,FL12362020
+870,Suwannee,40,Lutterloh fine sand, limestone substratum,Lutterloh fine sand,442.30,0.10%,FL12362003
+871,Union,12,Sapelo sand,Sapelo sand,24,737.20,15.50%,FL12563006
+872,Union,6,Plummer sands,Plummer sands,20,762.70,13.00%,FL12563005
+873,Union,2,Albany fine sand, 0 to 5 percent slopes,Albany fine sand,6,582.20,4.10%,FL12563002
+874,Union,3,Ocilla fine sand, 0 to 5 percent slopes,Ocilla fine sand,4,677.80,2.90%,FL12563008
+875,Union,17,Blanton fine sand, 0 to 5 percent slopes,Blanton fine sand,3,436.30,2.20%,FL12563003
+876,Union,35,Wampee loamy fine sand, 5 to 12 percent slopes,Wampee loamy fine sand,1,734.30,1.10%,FL12563007
+877,Volusia,32,Myakka fine sand,Myakka fine sand,52,901.40,6.50%,FL12764016
+878,Volusia,49,Pomona fine sand,Pomona fine sand,51,452.40,6.40%,FL12764007
+879,Volusia,4,Astatula fine sand, 0 to 8 percent slopes,Astatula fine sand,38,645.70,4.80%,FL12764004
+880,Volusia,29,Immokalee sand,Immokalee sand,34,246.30,4.20%,FL12764008
+881,Volusia,60,Smyrna fine sand,Smyrna fine sand,30,840.90,3.80%,FL12764011
+882,Volusia,42,Paola fine sand, 0 to 8 percent slopes,Paola fine sand,22,638.10,2.80%,FL12764006
+883,Volusia,63,Tavares fine sand, 0 to 5 percent slopes,Tavares fine sand,21,408.60,2.60%,FL12764014
+884,Volusia,17,Daytona sand, 0 to 5 percent slopes,Daytona sand,17,567.60,2.20%,FL12764015
+885,Volusia,69,Tuscawilla fine sand,Tuscawilla fine sand,14,582.50,1.80%,FL12764018
+886,Volusia,75,Wauchula fine sand,Wauchula fine sand,14,352.70,1.80%,FL12764001
+887,Volusia,31,Malabar fine sand,Malabar fine sand,13,097.30,1.60%,FL12764023
+888,Volusia,45,Pineda fine sand,Pineda fine sand,12,959.40,1.60%,FL12764002
+889,Volusia,20,EauGallie fine sand,EauGallie fine sand,12,326.00,1.50%,FL12764024
+890,Volusia,28,Hydraquents,Hydraquents,10,860.40,1.30%,FL12764031
+891,Volusia,37,Orsino fine sand, 0 to 5 percent slopes,Orsino fine sand,10,474.60,1.30%,FL12764013
+892,Volusia,13,Cassia fine sand,Cassia fine sand,7,723.20,1.00%,FL12764003
+893,Volusia,23,Farmton fine sand,Farmton fine sand,8,194.50,1.00%,FL12764026
+894,Volusia,10,Bluff sandy clay loam,Bluff sandy clay loam,7,519.60,0.90%,FL12764025
+895,Volusia,19,Deland fine sand, 0 to 5 percent slopes,Deland fine sand,7,001.50,0.90%,FL12764028
+896,Volusia,67,Turnbull muck,Turnbull muck,6,833.40,0.80%,FL12764030
+897,Volusia,59,Scoggin sand,Scoggin sand,5,988.90,0.70%,FL12764027
+898,Volusia,14,Chobee fine sandy loam,Chobee fine sandy loam,5,189.30,0.60%,FL12764022
+899,Volusia,57,Satellite sand,Satellite sand,3,707.30,0.50%,FL12764009
+900,Volusia,22,Electra fine sand, 0 to 5 percent slopes,Electra fine sand,2,763.00,0.30%,FL12764010
+901,Volusia,11,Bulow sand, 0 to 5 percent slopes,Bulow sand,1,911.50,0.20%,FL12764017
+902,Wakulla,26,Tooles fine sands,Tooles fine sands,20,067.00,4.50%,FL12965003
+903,Wakulla,,Nutall fine sands,Nutall fine sands,,,FL12965006
+904,Wakulla,35,Rutlege sand,Rutlege sand,12,959.30,2.90%,FL12965001
+905,Wakulla,10,Chaires fine sand,Chaires fine sand,9,398.00,2.10%,FL12965002
+906,Wakulla,4,Alpin sand, 0 to 5 percent slopes,Alpin sand,8,599.50,1.90%,FL12965012
+907,Wakulla,7,Otela fine sand, 0 to 5 percent slopes,Otela fine sand,7,590.50,1.70%,FL12965014
+908,Wakulla,27,Moriah fine sands,Moriah fine sands,7,423.40,1.70%,FL12965004
+909,Wakulla,,Pilgrims fine sands,Pilgrims fine sands,,,FL12965005
+910,Wakulla,3,Lutterloh sand, 0 to 5 percent slopes,Lutterloh sand,6,883.50,1.60%,FL12965013
+911,Wakulla,21,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,7,071.60,1.60%,FL12965015
+912,Wakulla,48,Otela, limestone substratum-,Otela-,7,176.60,1.60%,FL12965011
+913,Wakulla,11,Shadeville fine sand, 0 to 5 percent slopes,Shadeville fine sand,5,863.60,1.30%,FL12965008
+914,Wakulla,18,Hurricane sand, 0 to 5 percent slopes,Hurricane sand,3,628.30,0.80%,FL12965016
+915,Wakulla,8,Otela sand, 5 to 8 percent slopes,Otela sand,369.80,0.10%,FL12965009
+916,Walton,17,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,142,270.10,19.40%,FL13166002
+917,Walton,15,Kinston frequently flooded,Kinston ,38,990.50,5.30%,FL13166016
+918,Walton,31,Troup sand, 0 to 5 percent slopes,Troup sand,38,701.20,5.30%,FL13166006
+919,Walton,13,Fuquay loamy sand, 0 to 5 percent slopes,Fuquay loamy sand,28,438.90,3.90%,FL13166200
+920,Walton,27,Rutlege fine sand,Rutlege fine sand,22,617.30,3.10%,FL13166028
+921,Walton,2,Bonifay loamy sand, 0 to 5 percent slopes,Bonifay loamy sand,21,034.30,2.90%,FL13166004
+922,Walton,38,Bonneau 5 to 12 percent slopes,Bonneau,20,214.70,2.80%,FL13166035
+923,Walton,,Norfolk, 5 to 12 percent slopes,Norfolk,,,FL13166036
+924,Walton,57,Hurricane sand, 0 to 5 percent slopes,Hurricane sand,16,828.20,2.30%,FL13166032
+925,Walton,12,Foxworth sand, 0 to 5 percent slopes,Foxworth sand,16,338.30,2.20%,FL13166023
+926,Walton,20,Leefield loamy sands, 0 to 5 percent slopes,Leefield loamy sands,16,421.50,2.20%,FL13166018
+927,Walton,,Stilson loamy sands, 0 to 5 percent slopes,Stilson loamy sands,,,FL13166019
+928,Walton,10,Dothan loamy sand, 2 to 5 percent slopes,Dothan loamy sand,14,633.60,2.00%,FL13166029
+929,Walton,,Orangeburg loamy sands, 5 to 12 percent slopes,Orangeburg loamy sands,,,FL13166003
+930,Walton,21,Leon sand,Leon sand,13,132.70,1.80%,FL13166024
+931,Walton,4,Chipley sand, 0 to 5 percent slopes,Chipley sand,11,614.30,1.60%,FL13166021
+932,Walton,25,Orangeburg sandy loam, 1 to 5 percent slopes,Orangeburg sandy loam,7,004.50,1.00%,FL13166009
+933,Walton,1,Albany loamy sands, 0 to 5 percent slopes,Albany loamy sands,6,573.10,0.90%,FL13166030
+934,Walton,,Pactolus loamy sands, 0 to 5 percent slopes,Pactolus loamy sands,,,FL13166020
+935,Walton,64,Pamlico muck,Pamlico muck,6,921.60,0.90%,FL13166014
+936,Walton,42,Blanton sand, 0 to 5 percent slopes,Blanton sand,6,020.30,0.80%,FL13166034
+937,Walton,69,Florala loamy fine sand, 2 to 5 percent slopes,Florala loamy fine sand,5,145.20,0.70%,FL13166037
+938,Walton,16,Kureb sand, 0 to 8 percent slopes,Kureb sand,4,069.90,0.60%,FL13166008
+939,Walton,65,Garcon loamy fine sand, occasionally flooded,Garcon loamy fine sand,3,578.60,0.50%,FL13166038
+940,Walton,37,Angie sandy loam, 2 to 5 percent slopes,Angie sandy loam,1,959.30,0.30%,FL13166022
+941,Walton,45,Dirego muck, frequently flooded,Dirego muck,2,328.10,0.30%,FL13166011
+942,Walton,50,Mandarin sand,Mandarin sand,2,420.90,0.30%,FL13166033
+943,Walton,63,Pickney sand, depressional,Pickney sand,2,213.10,0.30%,FL13166027
+944,Walton,66,Kenansville loamy fine sand, 0 to 5 percent slopes,Kenansville loamy fine sand,2,403.60,0.30%,FL13166039
+945,Walton,29,Tifton fine sandy loam, 2 to 5 percent slopes,Tifton fine sandy loam,1,328.70,0.20%,FL13166010
+946,Walton,54,Newhan sands, rolling,Newhan sands,1,167.50,0.20%,FL13166025
+947,Walton,62,Resota sand, 0 to 5 percent slopes,Resota sand,1,234.70,0.20%,FL13166041
+948,Walton,52,Yemassee fine sandy loam, occasionally flooded,Yemassee fine sandy loam,170.70,0.00%,FL13166043
+949,Washington,63,Lakeland sand, 0 to 5 percent slopes,Lakeland sand,69,702.00,17.70%,FL13166002
+950,Washington,12,Dothan loamy sand, 2 to 5 percent slopes,Dothan loamy sand,45,957.60,11.70%,FL13166029
+951,Washington,106,Pantego soils, ponded,Pantego soils,37,007.60,9.40%,FL13166017
+952,Washington,2,Rutlege, soils, frequently flooded,Rutlege soils,33,697.20,8.50%,FL13166028
+953,Washington,,Pickney soils, frequently flooded,Pickney soils,,,FL00503011
+954,Washington,55,Chipley-complex, 0 to 5 percent slopes,Chipley-complex,10,517.90,2.70%,FL13166021
+955,Washington,,Albany- complex, 0 to 5 percent slopes,Albany- complex,,,FL13166030
+956,Washington,,Hurricane complex, 0 to 5 percent slopes,Hurricane complex,,,FL00503001
+957,Washington,128,Blanton- complex, 0 to 5 percent slopes,Blanton- complex,10,469.90,2.70%,FL00503017
+958,Washington,,Bonneau complex, 0 to 5 percent slopes,Bonneau complex,,,FL13166035
+959,Washington,39,Bonifay-complex, 0 to 5 percent slopes,Bonifay-complex,9,869.90,2.50%,FL13166004
+960,Washington,,Fuquay complex, 0 to 5 percent slopes,Fuquay complex,,,FL13166200
+961,Washington,,Plummer soils, occasionally ponded,Plummer soils,,,FL00503012
+962,Washington,,Leefield complex, 0 to 5 percent slopes,Leefield complex,,,FL13166018
+963,Washington,,Leon complex, 0 to 5 percent slopes,Leon complex,,,FL13166024

@@ -1,0 +1,440 @@
+Type,Code,Description
+Headers,ADDRESS,Contact address of principal scientist
+Headers,C,Crop component number (default = 1)
+Headers,CDATE,Application date, year + day or days from planting
+Headers,CHAMT,Chemical application amount, kg ha-1
+Headers,CHCOD,Chemical material, code
+Headers,CHDEP,Chemical application depth, cm
+Headers,CHME,Chemical application method, code
+Headers,CHNOTES,Chemical notes (Targets, chemical name, etc.)
+Headers,CNAME,Cultivar name
+Headers,CNOTES,Cultivar details (Type, pedigree, etc.)
+Headers,CR,Crop code
+Headers,CU,Cultivar level
+Headers,ECO2,CO2 adjustment, A,S,M,R + vpm
+Headers,EDATE,Emergence date, earliest treatment
+Headers,EDAY,Daylength adjustment, A,S,M,R+h (Add;Subtract;Multiply;Replace)
+Headers,EDEW,Humidity adjustment, A,S,M,R+oC (Add;Subtract;Multiply;Replace)
+Headers,EMAX,Temp (max) adjustment, A,S,M,R+oC (Add;Subtract;Multiply;Replace)
+Headers,EMIN,Temp (min) adjustment, A,S,M,R+oC (Add;Subtract;Multiply;Replace)
+Headers,ERAD,Radn adjustment, A,S,M,R+MJ m-2day-1 (Add;Subtract;Multiply;Replace)
+Headers,ERAIN,Precipitation adjustment, A,S,M,R+mm (Add;Subtract;Multiply;Replace)
+Headers,EWIND,Wind adjustment, A,S,M,R + km day-1 (Add;Subtract;Multiply;Replace)
+Headers,FACD,Fertilizer application/placement, code
+Headers,FAMC,Ca in applied fertilizer, kg ha-1
+Headers,FAMK,K in applied fertilizer, kg ha-1
+Headers,FAMN,N in applied fertilizer, kg ha-1
+Headers,FAMO,Other elements in applied fertilizer, kg ha-1
+Headers,FAMP,P in applied fertilizer, kg ha-1
+Headers,FDATE,Fertilization date, year + day or days from planting
+Headers,FDEP,Fertilizer incorporation/application depth, cm
+Headers,FL,Field level
+Headers,FLDD,Drain depth, cm
+Headers,FLDS,Drain spacing, m
+Headers,FLDT,Drainage type, code
+Headers,FLOB,Obstruction to sun, degrees
+Headers,FLSA,Slope and aspect, degrees from horizontal plus direction (W, NW, etc
+Headers,FLST,Surface stones (Abundance, % + Size, S,M,L)
+Headers,FMCD,Fertilizer material, code
+Headers,FOCD,Other element code, e.g.,. MG
+Headers,HAREA,Harvest area, m-2
+Headers,HARM,Harvest method
+Headers,HCOM,Harvest component, code
+Headers,HDATE,Harvest date, year + day or days from planting
+Headers,HL,Harvest level
+Headers,HLEN,Harvest row length, m
+Headers,HPC,Harvest percentage, %
+Headers,HRNO,Harvest row number
+Headers,HSIZ,Harvest size group, code
+Headers,HSTG,Harvest stage
+Headers,IAME,Method for automatic applications, code
+Headers,IAMT,Amount per automatic irrigation if fixed, mm
+Headers,IC,Initial conditions level
+Headers,ICBL,Depth, base of layer, cm
+Headers,ICDAT,Initial conditions measurement date, year + days
+Headers,ICND,Nodule weight from previous crop, kg ha-1
+Headers,ICRE,Rhizobia effectiveness, 0 to 1 scale
+Headers,ICRN,Rhizobia number, 0 to 1 scale
+Headers,ICRT,Root weight from previous crop, kg ha-1
+Headers,IDATE,Irrigation date, year + day or days from planting
+Headers,IDEP,Management depth for automatic application, cm
+Headers,ID_FIELD,Field ID (Institute + Site + Field)
+Headers,ID_SOIL,Soil ID (Institute + Site + Year + Soil)
+Headers,IEFF,Irrigation application efficiency, fraction
+Headers,IEPT,End point for automatic appl., % of max. available
+Headers,INGENO,Cultivar identifier
+Headers,IOFF,End of automatic applications, growth stage
+Headers,IROP,Irrigation operation, code
+Headers,IRVAL,Irrigation amount, depth of water/watertable, etc., mm
+Headers,ITHR,Threshold for automatic appl., % of max. available
+Headers,MC,Chemical applications level
+Headers,ME,Environment modifications level
+Headers,MF,Fertilizer applications level
+Headers,MH,Harvest level
+Headers,MI,Irrigation level
+Headers,MP,Planting level
+Headers,MR,Residue level
+Headers,MT,Tillage level
+Headers,NOTES,Notes
+Headers,O,Rotation component - option (default = 1)
+Headers,ODATE,Environmental modification date, year + day or days from planting
+Headers,PAGE,Transplant age, days
+Headers,PAREA,Gross plot area per rep, m-2
+Headers,PCR,Previous crop code
+Headers,PDATE,Planting date, year + days from Jan. 1
+Headers,PENV,Transplant environment, oC
+Headers,PEOPLE,Names of scientists
+Headers,PLAY,Plot layout
+Headers,PLDP,Planting depth, cm
+Headers,PLDR,Plots relative to drains, degrees
+Headers,PLDS,Planting distribution, row R, broadcast B, hill H
+Headers,PLEN,Plot length, m
+Headers,PLME,Planting method, code
+Headers,PLOR,Plot orientation, degrees from N
+Headers,PLPH,Plants per hill (if appropriate)
+Headers,PLRD,Row direction, degrees from N
+Headers,PLRS,Row spacing, cm
+Headers,PLSP,Plot spacing, cm
+Headers,PLWT,Planting material dry weight, kg ha-1
+Headers,PPOE,Plant population at emergence, m-2
+Headers,PPOP,Plant population at seeding, m-2
+Headers,PRNO,Rows per plot
+Headers,R,Rotation component - number (default = 1)
+Headers,RACD,Residue application/placement, code
+Headers,RAMT,Residue amount, kg ha-1
+Headers,RCOD,Residue material, code
+Headers,RDATE,Incorporation date, year + days
+Headers,RDEP,Residue incorporation depth, cm
+Headers,RDMC,Residue dry matter content, %
+Headers,RESK,Residue potassium concentration, %
+Headers,RESN,Residue nitrogen concentration, %
+Headers,RESP,Residue phosphorus concentration, %
+Headers,RINP,Residue incorporation percentage, %
+Headers,SA,Soil analysis level
+Headers,SABD,Bulk density, moist, g cm-3
+Headers,SABL,Depth, base of layer, cm
+Headers,SADAT,Analysis date, year + days from Jan. 1
+Headers,SAHB,pH in buffer
+Headers,SAHW,pH in water
+Headers,SAKE,Potassium, exchangeable, cmol kg-1
+Headers,SANI,Total nitrogen, %
+Headers,SAOC,Organic carbon, %
+Headers,SAPX,Phosphorus, extractable, mg kg-1
+Headers,SH2O,Water, cm3 cm-3
+Headers,SITE(S),Name and location of experimental site(s)
+Headers,SLDP,Soil depth, cm
+Headers,SLTX,Soil texture
+Headers,SM,Simulation control level
+Headers,SMHB,pH in buffer determination method, code
+Headers,SMKE,Potassium determination method, code
+Headers,SMPX,Phosphorus determination method, code
+Headers,SNH4,Ammonium, KCl, g elemental N Mg-1 soil
+Headers,SNO3,Nitrate, KCl, g elemental N Mg-1 soil
+Headers,TDATE,Tillage date, year + day
+Headers,TDEP,Tillage depth, cm
+Headers,TDETAIL,Tillage details
+Headers,TIMPL,Tillage implement, code
+Headers,TL,Tillage level
+Headers,TN,Treatment number
+Headers,TNAME,Treatment name
+Headers,WSTA,Weather station code (Institute + Site)
+Chemicals (Herbicides, I,CH001,Alachlor (Lasso), Metolachlor (Dual) [Herbicide]
+Chemicals (Herbicides, I,CH002,Propanil [Herbicide]
+Chemicals (Herbicides, I,CH003,Trifluralin [Herbicide]
+Chemicals (Herbicides, I,CH004,Dalapon [Herbicide]
+Chemicals (Herbicides, I,CH005,MCPA [Herbicide]
+Chemicals (Herbicides, I,CH006,2,4-D [Herbicide]
+Chemicals (Herbicides, I,CH007,2,4,5-T [Herbicide]
+Chemicals (Herbicides, I,CH008,Pendimethalin [Herbicide]
+Chemicals (Herbicides, I,CH009,Atrazine [Herbicide]
+Chemicals (Herbicides, I,CH010,Diquat [Herbicide]
+Chemicals (Herbicides, I,CH011,Paraquat [Herbicide]
+Chemicals (Herbicides, I,CH021,Carbaryl, Sevin, Septene [Insecticide]
+Chemicals (Herbicides, I,CH022,Malathion, Mercaptothion [Insecticide]
+Chemicals (Herbicides, I,CH023,Naled [Insecticide]
+Chemicals (Herbicides, I,CH024,Dimethoate [Insecticide]
+Chemicals (Herbicides, I,CH025,Fention [Insecticide]
+Chemicals (Herbicides, I,CH026,Diazinon, Basudin [Insecticide]
+Chemicals (Herbicides, I,CH027,Ethion, Diethion [Insecticide]
+Chemicals (Herbicides, I,CH028,Oxydemeton-Methyl [Insecticide]
+Chemicals (Herbicides, I,CH029,Azinphos-Methyl [Insecticide]
+Chemicals (Herbicides, I,CH030,Phosphamidon [Insecticide]
+Chemicals (Herbicides, I,CH031,Mevinphosl [Insecticide]
+Chemicals (Herbicides, I,CH032,Methyl Parathion [Insecticide]
+Chemicals (Herbicides, I,CH033,Parathion [Insecticide]
+Chemicals (Herbicides, I,CH034,DDT [Insecticide]
+Chemicals (Herbicides, I,CH035,BHC, HCH [Insecticide]
+Chemicals (Herbicides, I,CH036,Chlordane [Insecticide]
+Chemicals (Herbicides, I,CH037,Heptachlor [Insecticide]
+Chemicals (Herbicides, I,CH038,Toxaphene [Insecticide]
+Chemicals (Herbicides, I,CH039,Aldrin [Insecticide]
+Chemicals (Herbicides, I,CH040,Dieldrin [Insecticide]
+Chemicals (Herbicides, I,CH041,Endrin, Nendrin [Insecticide]
+Chemicals (Herbicides, I,CH042,Methomyl, Lannat [Insecticide]
+Chemicals (Herbicides, I,CH043,Thiotex [Insecticide]
+Chemicals (Herbicides, I,CH044,Furadan [Insecticide]
+Chemicals (Herbicides, I,CH045,Endosulfan [Insecticide]
+Chemicals (Herbicides, I,CH051,Captan [Fungicide]
+Chemicals (Herbicides, I,CH052,Benomyl [Fungicide]
+Chemicals (Herbicides, I,CH053,Zineb [Fungicide]
+Chemicals (Herbicides, I,CH054,Maneb [Fungicide]
+Chemicals (Herbicides, I,CH055,Mancozeb [Fungicide]
+Chemicals (Herbicides, I,CH056,Tilt [Fungicide]
+Chemicals (Herbicides, I,CH057,Rhizobium (for legume crops)
+Chemicals (Herbicides, I,CH100,Pix [Mepiquat Chloride; Growth Regulator]
+Crop and Weed Species,AL,Alfalfa/Lucerne
+Crop and Weed Species,AR,Aroid
+Crop and Weed Species,BA,Barley
+Crop and Weed Species,BM,Bermuda grass
+Crop and Weed Species,BH,Bahia grass
+Crop and Weed Species,BN,Dry bean
+Crop and Weed Species,BR,Brachiaria
+Crop and Weed Species,BS,Sugar beet
+Crop and Weed Species,BW,Broad leaf weeds
+Crop and Weed Species,CB,Cabbage
+Crop and Weed Species,CH,Chickpea
+Crop and Weed Species,CT,Citrus
+Crop and Weed Species,CN,Canola
+Crop and Weed Species,CO,Cotton
+Crop and Weed Species,CP,Cowpea
+Crop and Weed Species,CS,Cassava
+Crop and Weed Species,CV,Clover
+Crop and Weed Species,FA,Fallow
+Crop and Weed Species,FB,Faba bean
+Crop and Weed Species,GB,Green bean
+Crop and Weed Species,GR,Grass vegetation
+Crop and Weed Species,GW,Grass weeds
+Crop and Weed Species,LT,Lentil
+Crop and Weed Species,ML,Pearl millet
+Crop and Weed Species,MZ,Maize
+Crop and Weed Species,NN,Banana
+Crop and Weed Species,NP,Napier grass
+Crop and Weed Species,OA,Oats
+Crop and Weed Species,PE,Pea
+Crop and Weed Species,PI,Pineapple
+Crop and Weed Species,PN,Peanut
+Crop and Weed Species,PO,Perennial peanut
+Crop and Weed Species,PP,Pigeonpea
+Crop and Weed Species,PR,Pepper
+Crop and Weed Species,PT,Potato
+Crop and Weed Species,RI,Rice
+Crop and Weed Species,RP,Rhizoma peanut
+Crop and Weed Species,SB,Soybean
+Crop and Weed Species,SC,Sugarcane
+Crop and Weed Species,SG,Grain sorghum
+Crop and Weed Species,SI,Switch grass
+Crop and Weed Species,SQ,Sequence
+Crop and Weed Species,SS,Sesame
+Crop and Weed Species,SU,Sunflower
+Crop and Weed Species,SW,Sweetcorn
+Crop and Weed Species,TM,Tomato
+Crop and Weed Species,TN,Tanier
+Crop and Weed Species,TR,Taro
+Crop and Weed Species,VB,Velvet bean
+Crop and Weed Species,VI,Vine
+Crop and Weed Species,WH,Wheat
+Disease and Pest Organis,CEW,Corn earworm (Heliothis zea), no. m-2
+Disease and Pest Organis,VBC,Velvetbean caterpillar (Anticarsia gemmatalis), no. m-2
+Disease and Pest Organis,SBL,Soybean looper (Pseudoplusia includens), no. m-2
+Disease and Pest Organis,SKB,Southern green stinkbug (Mezara viridula), no. m-2
+Disease and Pest Organis,RKN,Root-knot nematode (Meloidogyne spp.), no. cm-3 soil
+Disease and Pest Organis,CUT,Cutworm, no. m-2
+Drainage,DR000,No drainage
+Drainage,DR001,Ditches
+Drainage,DR002,Sub-surface tiles
+Drainage,DR003,Surface furrows
+Element Code,B,Boron
+Element Code,CA,Calcium
+Element Code,FE,Iron
+Element Code,MG,Magnesium
+Element Code,N,Nitrogen
+Element Code,P,Phosphorus
+Element Code,P,Potassium
+Element Code,S,Sulfur
+Element Code,ZN,Zinc
+Environment Modification,A,Add
+Environment Modification,S,Subtract
+Environment Modification,M,Multiply
+Environment Modification,R,Replace
+Fertilizers, Inoculants,FE001,Ammonium nitrate
+Fertilizers, Inoculants,FE002,Ammonium sulfate
+Fertilizers, Inoculants,FE003,Ammonium nitrate sulfate
+Fertilizers, Inoculants,FE004,Anhydrous ammonia
+Fertilizers, Inoculants,FE005,Urea
+Fertilizers, Inoculants,FE006,Diammnoium phosphate
+Fertilizers, Inoculants,FE007,Monoammonium phosphate
+Fertilizers, Inoculants,FE008,Calcium nitrate
+Fertilizers, Inoculants,FE009,Aqua ammonia
+Fertilizers, Inoculants,FE010,Urea ammonium nitrate solution
+Fertilizers, Inoculants,FE011,Calcium ammonium nitrate solution
+Fertilizers, Inoculants,FE012,Ammonium polyphosphate
+Fertilizers, Inoculants,FE013,Single super phosphate
+Fertilizers, Inoculants,FE014,Triple super phosphate
+Fertilizers, Inoculants,FE015,Liquid phosphoric acid
+Fertilizers, Inoculants,FE016,Potassium chloride
+Fertilizers, Inoculants,FE017,Potassium nitrate
+Fertilizers, Inoculants,FE018,Potassium sulfate
+Fertilizers, Inoculants,FE019,Urea super granules
+Fertilizers, Inoculants,FE020,Dolomitic limestone
+Fertilizers, Inoculants,FE021,Rock phosphate
+Fertilizers, Inoculants,FE022,Calcitic limestone
+Fertilizers, Inoculants,FE024,Rhizobium
+Fertilizers, Inoculants,FE026,Calcium hydroxide
+Fertilizers, Inoculants,FE051,Urea super granules (Control release)
+Harvest components,C,Canopy
+Harvest components,L,Leaves
+Harvest components,H,Harvest product
+Harvest size categories,A,All
+Harvest size categories,S,Small - less than 1/3 full size
+Harvest size categories,M,Medium - from 1/3 to 2/3 full size
+Harvest size categories,L,Large - greater than 2/3 full size
+Methods - Fertilizer and,AP001,Broadcast, not incorporated
+Methods - Fertilizer and,AP002,Broadcast, incorporated
+Methods - Fertilizer and,AP003,Banded on surface
+Methods - Fertilizer and,AP004,Banded beneath surface
+Methods - Fertilizer and,AP005,Applied in irrigation water
+Methods - Fertilizer and,AP006,Foliar spray
+Methods - Fertilizer and,AP007,Bottom of hole, deep placement
+Methods - Fertilizer and,AP008,On the seed
+Methods - Fertilizer and,AP009,Injected
+Methods - Fertilizer and,AP011,Broadcast on flooded/saturated soil, none in soil
+Methods - Fertilizer and,AP012,Broadcast on flooded/saturated soil, 15% in soil
+Methods - Fertilizer and,AP013,Broadcast on flooded/saturated soil, 30% in soil
+Methods - Fertilizer and,AP014,Broadcast on flooded/saturated soil, 45% in soil
+Methods - Fertilizer and,AP015,Broadcast on flooded/saturated soil, 60% in soil
+Methods - Fertilizer and,AP016,Broadcast on flooded/saturated soil, 75% in soil
+Methods - Fertilizer and,AP017,Broadcast on flooded/saturated soil, 90% in soil
+Methods - Fertilizer and,AP018,Band on saturated soil,2cm flood, 92% in soil
+Methods - Fertilizer and,AP019,Deeply placed urea super granules/pellets, 95% in soil
+Methods - Fertilizer and,AP020,Deeply placed urea super granules/pellets, 100% in soil
+Methods - Irrigation and,IR001,Furrow, mm
+Methods - Irrigation and,IR002,Alternating furrows, mm
+Methods - Irrigation and,IR003,Flood, mm
+Methods - Irrigation and,IR004,Sprinkler, mm
+Methods - Irrigation and,IR005,Drip or trickle, mm
+Methods - Irrigation and,IR006,Flood depth, mm
+Methods - Irrigation and,IR007,Water table depth, mm
+Methods - Irrigation and,IR008,Percolation rate, mm day-1
+Methods - Irrigation and,IR009,Bund height, mm
+Methods - Irrigation and,IR010,Puddling (for Rice only)
+Methods - Irrigation and,IR011,Constant flood depth, mm
+Methods - Soil Analysis,SA001,Olsen
+Methods - Soil Analysis,SA002,Bray No. 1
+Methods - Soil Analysis,SA003,Bray No. 2
+Methods - Soil Analysis,SA004,Mehlich I (double acid, 1:5)
+Methods - Soil Analysis,SA005,Anion exchange resin
+Methods - Soil Analysis,SA006,Truog
+Methods - Soil Analysis,SA007,Mehlich I (double acid, 1:10)
+Methods - Soil Analysis,SA008,Colwell
+Methods - Soil Analysis,SA009,Water
+Methods - Soil Analysis,SA010,IFDC Pi strip
+Methods - Soil Analysis,SA011,pH in Water
+Methods - Soil Analysis,SA012,pH in KCl
+Methods - Soil Analysis,SA013,Mehlich 3
+Methods - Soil Analysis,SA014,Morgans solution
+Methods - Soil Analysis,SA015,NH4OAc
+Planting Material/Method,B,Bedded
+Planting Material/Method,C,Cutting
+Planting Material/Method,H,Horizontally planted sticks
+Planting Material/Method,I,Inclined (45o) sticks
+Planting Material/Method,N,Nursery
+Planting Material/Method,P,Pregerminated seed
+Planting Material/Method,R,Ratoon
+Planting Material/Method,S,Dry seed
+Planting Material/Method,T,Transplants
+Planting Material/Method,V,Vertically planted sticks
+Plant Distribution,R,Rows
+Plant Distribution,H,Hills
+Plant Distribution,U,Uniform/Broadcast
+Residues and Organic Fer,RE001,Generic crop residue
+Residues and Organic Fer,RE101,Generic legume residue
+Residues and Organic Fer,RE201,Generic cereal crop residue
+Residues and Organic Fer,RE301,Generic grass
+Residues and Organic Fer,RE999,Decomposed crop residue
+Residues and Organic Fer,RE002,Green manure
+Residues and Organic Fer,RE003,Barnyard manure
+Residues and Organic Fer,RE004,Liquid manure
+Residues and Organic Fer,RE005,Compost
+Residues and Organic Fer,RE006,Bark
+Residues and Organic Fer,RE102,Cowpea residue
+Residues and Organic Fer,RE103,Mucuna residue
+Residues and Organic Fer,RE104,Peanut residue
+Residues and Organic Fer,RE105,Pigeon Pea residue
+Residues and Organic Fer,RE106,Soybean residue
+Residues and Organic Fer,RE107,Alfalfa residue
+Residues and Organic Fer,RE108,chickpea forage
+Residues and Organic Fer,RE109,Faba bean
+Residues and Organic Fer,RE110,Pea residue
+Residues and Organic Fer,RE111,Hairy vetch
+Residues and Organic Fer,RE202,Pearl millet residue
+Residues and Organic Fer,RE203,Maize residue
+Residues and Organic Fer,RE204,Sorghum residue
+Residues and Organic Fer,RE205,Wheat residue
+Residues and Organic Fer,RE206,Barley
+Residues and Organic Fer,RE207,rice
+Residues and Organic Fer,RE208,rye
+Residues and Organic Fer,RE302,Bahiagrass
+Residues and Organic Fer,RE303,Bermudagrass
+Residues and Organic Fer,RE304,Switchgrass
+Residues and Organic Fer,RE305,brachiaria
+Residues and Organic Fer,RE306,forage grasses
+Residues and Organic Fer,RE401,Bush fallow residue
+Residues and Organic Fer,RE402,Sugarcane
+Residues and Organic Fer,RE403,Pineapple
+Rotation,RO001,Continuous arable crops
+Rotation,RO002,Rotation with forages
+Soil Texture,C,Clay
+Soil Texture,CL,Clay loam
+Soil Texture,L,Loam
+Soil Texture,LS,Loamy sand
+Soil Texture,S,Sand
+Soil Texture,SC,Silty clay
+Soil Texture,SCL,Silty clay loam
+Soil Texture,SI,Silt
+Soil Texture,SIC,Silty clay
+Soil Texture,SICL,Silty clay loam
+Soil Texture,SIL,Silty loam
+Soil Texture,SL,Sandy loam
+Tillage Implements,TI001,V-Ripper
+Tillage Implements,TI002,Subsoiler
+Tillage Implements,TI003,Moldboard plow 20 cm
+Tillage Implements,TI004,Chisel plow, sweeps
+Tillage Implements,TI005,Chisel plow, straight point
+Tillage Implements,TI006,Chisel plow, twisted shovels
+Tillage Implements,TI007,Disk plow
+Tillage Implements,TI008,Disk, 1-way
+Tillage Implements,TI009,Disk, tandem
+Tillage Implements,TI010,Disk, double disk
+Tillage Implements,TI011,Cultivator, field
+Tillage Implements,TI012,Cultivator, row
+Tillage Implements,TI013,Cultivator, ridge till
+Tillage Implements,TI014,Harrow, spike
+Tillage Implements,TI015,Harrow, tine
+Tillage Implements,TI016,Lister
+Tillage Implements,TI017,Bedder
+Tillage Implements,TI018,Blade cultivator
+Tillage Implements,TI019,Fertilizer applicator, anhydrous
+Tillage Implements,TI020,Manure injector
+Tillage Implements,TI021,Animal-drawn implement
+Tillage Implements,TI022,Mulch treader
+Tillage Implements,TI023,Plank
+Tillage Implements,TI024,Roller packer
+Tillage Implements,TI025,Drill, double-disk
+Tillage Implements,TI026,Drill, deep furrow
+Tillage Implements,TI031,Drill, no-till
+Tillage Implements,TI032,Drill, no-till [sod]
+Tillage Implements,TI033,Planter, row
+Tillage Implements,TI034,Planter, no-till
+Tillage Implements,TI035,Planting stick (hand)
+Tillage Implements,TI036,Matraca hand planter
+Tillage Implements,TI037,Rod weeder
+Tillage Implements,TI038,Rotary hoe
+Tillage Implements,TI039,Roller harrow, cultipacker
+Tillage Implements,TI041,Moldboard plow 25 cm
+Tillage Implements,TI042,Moldboard plow 30 cm
+Field History,FH101,Cultivated, good mgmt, init default SOM
+Field History,FH102,Cultivated, poor mgmt, init default SOM
+Field History,FH201,Cultivated, good mgmt, init grass or forest
+Field History,FH202,Cultivated, poor mgmt, init grass or forest
+Field History,FH301,Cultivated, good mgmt, init degraded land
+Field History,FH302,Cultivated, poor mgmt, init degraded land
