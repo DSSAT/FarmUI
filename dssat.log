@@ -251,6 +251,6 @@
   <level>ALL</level>
   <class>dssat.DSSATMain</class>
   <method>&lt;init&gt;</method>
-  <thread>15</thread>
+  <thread>15</thread> 
   <message>Application Initialized.</message>
 </record>
