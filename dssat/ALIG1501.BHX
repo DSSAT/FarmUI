@@ -1,0 +1,108 @@
+*EXP.DETAILS: ALIG1501BH 
+
+*GENERAL
+@ADDRESS
+ UNIVERSITY OF FLORIDA, GAINESVILLE, FL, USA
+
+*TREATMENTS                        -------------FACTOR LEVELS------------
+@N R O C TNAME.................... CU FL SA IC MP MI MF MR MC MT ME MH SM
+ 1 1 1 0 ALIG1501_2006              1  1  0  0  1  1  0  0  0  0  0  0  1
+ 2 1 1 0 ALIG1501_2007              1  1  0  0  2  2  0  0  0  0  0  0  1
+ 3 1 1 0 ALIG1501_2008              1  1  0  0  3  3  0  0  0  0  0  0  1
+ 4 1 1 0 ALIG1501_2009              1  1  0  0  4  4  0  0  0  0  0  0  1
+ 5 1 1 0 ALIG1501_2010              1  1  0  0  5  5  0  0  0  0  0  0  1
+ 6 1 1 0 ALIG1501_2011              1  1  0  0  6  6  0  0  0  0  0  0  1
+ 7 1 1 0 ALIG1501_2012              1  1  0  0  7  7  0  0  0  0  0  0  1
+ 8 1 1 0 ALIG1501_2013              1  1  0  0  8  8  0  0  0  0  0  0  1
+ 9 1 1 0 ALIG1501_2014              1  1  0  0  9  9  0  0  0  0  0  0  1
+10 1 1 0 ALIG1501_2015              1  1  0  0 10 10  0  0  0  0  0  0  1
+
+*CULTIVARS
+@C CR INGENO CNAME
+ 1 BH UF0001 -99
+
+*FIELDS
+@L ID_FIELD WSTA....  FLSA  FLOB  FLDT  FLDD  FLDS  FLST SLTX  SLDP  ID_SOIL    BDWD  BDHT PMALB FLNAME
+ 1 ALIG1501 ALI        -99   -99 -99     -99   -99 -99   -99    -99  FL00101098    -99   -99   -99   -99
+@L ...........XCRD ...........YCRD .....ELEV .............AREA .SLEN .FLWR .SLAS FLHST FHDUR
+ 1 -82.35410308838 29.676599502564       -99               -99   -99   -99   -99   -99   -99
+
+*PLANTING DETAILS
+@P PDATE EDATE  PPOP  PPOE  PLME  PLDS  PLRS  PLRD  PLDP  PLWT  PAGE  PENV  PLPH  SPRL                        PLNAME
+ 1 06132   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+ 2 07132   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+ 3 08133   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+ 4 09132   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+ 5 10132   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+ 6 11132   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+ 7 12133   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+ 8 13132   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+ 9 14132   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+10 15132   -99    22    22     C   -99   53    -99    3    -99   -99   -99   -99   -99                        -99
+
+*IRRIGATION AND WATER MANAGEMENT
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+ 1   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+ 1 06132 IR006    12    21 15:26 15:26 15:26
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+ 2   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+ 2 07132 IR006    12    21 15:26 15:26 15:26
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+ 3   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+ 3 08133 IR006    12    21 15:26 15:26 15:26
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+ 4   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+ 4 09132 IR006    12    21 15:26 15:26 15:26
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+ 5   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+ 5 10132 IR006    12    21 15:26 15:26 15:26
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+ 6   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+ 6 11132 IR006    12    21 15:26 15:26 15:26
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+ 7   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+ 7 12133 IR006    12    21 15:26 15:26 15:26
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+ 8   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+ 8 13132 IR006    12    21 15:26 15:26 15:26
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+ 9   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+ 9 14132 IR006    12    21 15:26 15:26 15:26
+@I  EFIR  IDEP  ITHR  IEPT  IOFF  IAME  IAMT IRSPC IROFS IRDEP IRNAME
+10   0.9   -99   -99   -99   -99   -99   -99   -99   -99   -99   -99
+@I IDATE  IROP IRVAL  IRSTR  IRDUR  IRINT  IRNUM
+10 15132 IR006    12    21 15:26 15:26 15:26
+
+*SIMULATION CONTROLS
+@N GENERAL     NYERS NREPS START SDATE RSEED SNAME.................... SMODEL
+ 1 GE              1     1     S   -99  2150 DEFAULT SIMULATION CONTRL 
+@N OPTIONS     WATER NITRO SYMBI PHOSP POTAS DISES  CHEM  TILL   CO2
+ 1 OP              Y     Y     Y     N     N     N     N     Y     M
+@N METHODS     WTHER INCON LIGHT EVAPO INFIL PHOTO HYDRO NSWIT MESOM MESEV MESOL
+ 1 ME              M     M     E     R     S     L     R     1     P     S     2
+@N MANAGEMENT  PLANT IRRIG FERTI RESID HARVS
+ 1 MA              R     R     R     R     M
+@N OUTPUTS     FNAME OVVEW SUMRY FROPT GROUT CAOUT WAOUT NIOUT MIOUT DIOUT VBOSE CHOUT OPOUT
+ 1 OU              N     Y     Y     1     Y     Y     N     N     N     N     N     N     N
+
+@  AUTOMATIC MANAGEMENT
+@N PLANTING    PFRST PLAST PH2OL PH2OU PH2OD PSTMX PSTMN
+ 1 PL          82050 82064    40   100    30    40    10
+@N IRRIGATION  IMDEP ITHRL ITHRU IROFF IMETH IRAMT IREFF
+ 1 IR             30    50   100 GS000 IR001    10  1.00
+@N NITROGEN    NMDEP NMTHR NAMNT NCODE NAOFF
+ 1 NI             30    50    25 FE001 GS000
+@N RESIDUES    RIPCN RTIME RIDEP
+ 1 RE            100     1    20
+@N HARVEST     HFRST HLAST HPCNP HPCNR
+ 1 HA              0 83057   100     0
+

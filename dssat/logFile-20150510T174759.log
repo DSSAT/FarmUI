@@ -1,0 +1,47 @@
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - QuadUI Version 1.3.1-final(release) lauched with JAVA 1.7.0_67-b01 under OS Windows 8.1
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - Dome mode: 	NONE
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - convertPath:	E:\Job\QUAD\FABL1502.json
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - linkPath: 	
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - fieldPath: 	null
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - strategyPath:	null
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - outputPath:	E:\Job\QUAD
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - Models:		[DSSAT]
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - Thread pool size: 	4
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - Starting translation job
+17:47:59.226 INFO  org.agmip.ui.quadui.QuadCmdLine - Importing data...
+17:48:00.160 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: 6fa9aaa3ad201d6dca1255085f1940a38d91c6d067adf22988bd677a51bf2c70
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2006] 6fa9aaa3ad201d6dca1255085f1940a38d91c6d067adf22988bd677a51bf2c70
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: 73f6f457e9065a3cc65eecf3afaf751558d6b5d3e5845e6086c4c94dd7d4ae7a
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2007] 73f6f457e9065a3cc65eecf3afaf751558d6b5d3e5845e6086c4c94dd7d4ae7a
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: febfb2ae43137934d9f66795fb6604b7548c6e1e2fd1223eae0fa7617bc81272
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2008] febfb2ae43137934d9f66795fb6604b7548c6e1e2fd1223eae0fa7617bc81272
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: a479aefaf4735f7efed342d9ed18da3e56d465346724397de35c156d4223f655
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2009] a479aefaf4735f7efed342d9ed18da3e56d465346724397de35c156d4223f655
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: 9b89feb9d65680513ed837a6bbf424caad0114498d401d6ac277b72caf40aecf
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2010] 9b89feb9d65680513ed837a6bbf424caad0114498d401d6ac277b72caf40aecf
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: b6a638fedb1fce3fecf3488f6198c96f4c1551f862baba68be2ae6fdffe66d73
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2011] b6a638fedb1fce3fecf3488f6198c96f4c1551f862baba68be2ae6fdffe66d73
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: 9be68e0bc3422b5c66a8d2e42ffd874c69071ce5a584877d61cbc2090f4392b7
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2012] 9be68e0bc3422b5c66a8d2e42ffd874c69071ce5a584877d61cbc2090f4392b7
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: 227ff6c40c02388329fb0f0c7d3e68b2907e52e360cda01005d64047ed4794cd
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2013] 227ff6c40c02388329fb0f0c7d3e68b2907e52e360cda01005d64047ed4794cd
+17:48:00.191 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: b2b7ff1ea07b7191bcd3707582531669535541784f4ef6bfaf4e632046a2cae5
+17:48:00.207 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2014] b2b7ff1ea07b7191bcd3707582531669535541784f4ef6bfaf4e632046a2cae5
+17:48:00.207 ERROR org.agmip.ace.AceDataset - Found blank weather for experiment: 21f1dd7a6f69d5aff7f05b0b864cf49e9badf9b5434065a4b575656e13320227
+17:48:00.207 ERROR org.agmip.ace.AceDataset - Found blank soil for experiment: [FABL1502_2015] 21f1dd7a6f69d5aff7f05b0b864cf49e9badf9b5434065a4b575656e13320227
+17:48:00.207 INFO  org.agmip.ui.quadui.QuadCmdLine - Generate ACE Binary file for FABL1502.json ...
+17:48:00.289 INFO  org.agmip.ui.quadui.QuadCmdLine - Generating model input files...
+17:48:00.368 INFO  org.agmip.ui.quadui.QuadCmdLine - Dump to ACE Binary for FABL1502.json successfully
+17:48:00.399 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.399 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.399 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.399 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.399 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.399 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.399 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.414 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.414 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.414 ERROR org.agmip.dome.DomeUtil - unpackDomeName() provided an invalid name: 
+17:48:00.414 INFO  org.agmip.ui.quadui.TranslateToTask - DSSAT Translator Started
+17:48:00.539 INFO  org.agmip.ui.quadui.TranslateRunner - DSSAT Translator Finished in 0.093s.
+17:48:00.539 INFO  org.agmip.ui.quadui.QuadCmdLine - === Completed translation job ===

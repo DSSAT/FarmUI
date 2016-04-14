@@ -1,0 +1,1 @@
+start jre1.8.0_60\bin\javaw -jar dssat_jar\dssat.jar
