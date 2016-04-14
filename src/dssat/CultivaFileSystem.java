@@ -12,6 +12,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -46,14 +47,19 @@ public class CultivaFileSystem extends BaseFileSystem {
     public HashMap <String, String> ReadFromFile (String attributName) {
         //C:\DSSAT46\Genotype
         HashMap <String, String> locoutcache = new HashMap <String, String>();
-        //StringBuilder filename = new StringBuilder ("C:\\DSSAT46\\Genotype\\");
-        StringBuilder filename = new StringBuilder (".\\Genotype\\");
+        StringBuilder filename = new StringBuilder ("/dssat/properties/Genotype/");
+        //StringBuilder filename = new StringBuilder (".\\Genotype\\");        
+        System.out.println("\nCultivar File Name: " + incache.get("CultivarFile"));
         filename.append(incache.get("CultivarFile"));
         File file = new File (filename.toString());
-        FileReader fr = null;
+        InputStreamReader fr = null;
          try {
-             fr = new FileReader(file);
-         } catch (FileNotFoundException ex) {
+            // fr = new FileReader(file);
+             System.out.println("File To open : " + filename.toString());
+             fr = new InputStreamReader(getClass().getResourceAsStream(filename.toString()));
+             //reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream("/dssat/properties/csv/dssat_crop_lookup.csv")));            
+             
+         } catch (Exception ex) {
              Logger.getLogger(CultivaFileSystem.class.getName()).log(Level.SEVERE, null, ex);
          }
         BufferedReader br = new BufferedReader(fr);

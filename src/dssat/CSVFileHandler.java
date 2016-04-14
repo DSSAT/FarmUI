@@ -9,8 +9,10 @@ import com.opencsv.CSVReader;
 import static dssat.DSSATMain.LOGGER;
 import static dssat.DSSATMain.csvdirpath;
 import static dssat.DSSATMain.dirseprator;
+import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -35,7 +37,8 @@ public class CSVFileHandler {
         
         try {            
             String filepath = DSSATMain.curdirpath +dirseprator+ "sites"+dirseprator+"sitesinfo.sites"; 
-            reader = new CSVReader(new FileReader(filepath));
+            //reader = new CSVReader(new FileReader(filepath));
+            reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream("/dssat/properties/sites/sitesinfo.sites")));
             while ((nextLine = reader.readNext()) != null) { 
                 
                 String path = nextLine[1];                               
@@ -90,10 +93,11 @@ public class CSVFileHandler {
         LOGGER.log(Level.ALL, "Initializing Soil DB Information...");
         try {
             
-            String filepath = csvdirpath +dirseprator+ "dssat_countywise_list_of_soils.csv";
-            reader = new CSVReader(new FileReader(filepath));
+            //String filepath = csvdirpath +dirseprator+ "dssat_countywise_list_of_soils.csv";
+            reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream("/dssat/properties/csv/dssat_countywise_list_of_soils.csv")));
+            //reader = new CSVReader(new FileReader(filepath));
             //reader = new CSVReader(new FileReader(".\\data\\dssat_countywise_list_of_soils.csv"));
-            reader = new CSVReader(new FileReader(filepath));
+            
             while ((nextLine = reader.readNext()) != null) { 
                 String county = nextLine[1];                               
                 if (county.isEmpty() == false) { 
@@ -125,8 +129,9 @@ public class CSVFileHandler {
         try {
             //String filepath = DSSATMain.csvdirpath + "\\dssat_countywise_list_of_soils.csv";
             //reader = new CSVReader(new FileReader(".\\data\\dssat_countywise_list_of_soils.csv"));
-            String filepath = csvdirpath +dirseprator+ "dssat_countywise_list_of_soils.csv";
-            reader = new CSVReader(new FileReader(filepath));
+            /*String filepath = csvdirpath +dirseprator+ "dssat_countywise_list_of_soils.csv";
+            reader = new CSVReader(new FileReader(filepath));*/
+            reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream("/dssat/properties/csv/dssat_countywise_list_of_soils.csv")));
             while ((nextLine = reader.readNext()) != null) { 
                 String county = nextLine[1];                               
                 if (county.isEmpty() == false && county.equals(countyName)) { 
@@ -159,14 +164,16 @@ public class CSVFileHandler {
             String filepath = csvdirpath +dirseprator+ "counties_centroid.csv";
             LOGGER.log(Level.ALL, filepath);
             //String fpath = ".\\data\\counties_centroid.csv";
-            reader = new CSVReader(new FileReader(filepath));
+            
+            //reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream("/dssat/properties/csv/counties_centroid.csv")));
+            reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream("/dssat/properties/csv/counties_centroid.csv")));
             while ((nextLine = reader.readNext()) != null) {                
                 String state = nextLine[2];                               
                 if (state.equals("FL")) { 
                     countyList.add(nextLine[1]);
                 }
             }            
-        } catch (IOException e) {
+        } catch (Exception e) {
             LOGGER.log(Level.ALL, "Failed to retrieve the list of Counties.");
             e.printStackTrace();
             return null;
@@ -186,7 +193,8 @@ public class CSVFileHandler {
             
             String filepath = DSSATMain.csvdirpath + DSSATMain.dirseprator + "counties_centroid.csv";
             //reader = new CSVReader(new FileReader(".\\data\\counties_centroid.csv"));
-            reader = new CSVReader(new FileReader(filepath));
+            //reader = new CSVReader(new FileReader(filepath));
+            reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream("/dssat/properties/csv/counties_centroid.csv")));
             while ((nextLine = reader.readNext()) != null) {
                 
                 String state = nextLine[2];
@@ -220,7 +228,8 @@ public class CSVFileHandler {
         try {
             //reader = new CSVReader(new FileReader(".\\data\\fawn_lookup.csv"));
             String filepath = csvdirpath +dirseprator+ "fawn_lookup.csv";
-            reader = new CSVReader(new FileReader(filepath));
+            //reader = new CSVReader(new FileReader(filepath));
+            reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream("/dssat/properties/csv/fawn_lookup.csv")));
             while ((nextLine = reader.readNext()) != null) {
                 location = nextLine[2];
                 location = location.toLowerCase();
@@ -238,10 +247,15 @@ public class CSVFileHandler {
     // Implemented
     public ArrayList getWeatherStations_GlobalDB(Location loc) {        
 
-        double longright = loc.longitude + 10.00;
-        double longleft = loc.longitude - 10.00;
-        double latupper = loc.latitude + 10.00;
-        double latlower = loc.latitude - 10.00;
+        double longleft = loc.longitude - .75;
+        double longright = loc.longitude + .75;
+
+        
+        double latlower = loc.latitude - .75; 
+        double latupper = loc.latitude + .75;
+
+        
+        
         
         CSVReader reader;
         String [] nextLine;
@@ -251,20 +265,50 @@ public class CSVFileHandler {
         Double latitude;
         Double longitude;        
         
+        System.out.println ("location Longitude = " + loc.longitude +"  Location Latitude = " + loc.latitude);
+        System.out.println ("Lower Latitude = " + latlower +"  Upper Latitude = " + latupper);
+        System.out.println ("Left Longitude = " + longleft +"  Right Longitude = " + longright);
+        
         try {
             //reader = new CSVReader(new FileReader(".\\data\\fawn_lookup.csv"));
             String filepath = csvdirpath +dirseprator+ "fawn_lookup.csv";
-            reader = new CSVReader(new FileReader(filepath));
+            //reader = new CSVReader(new FileReader(filepath));
+            reader = new CSVReader(new InputStreamReader(getClass().getResourceAsStream("/dssat/properties/csv/fawn_lookup.csv")));
             while ((nextLine = reader.readNext()) != null) {
                 
                 latitude = Double.parseDouble(nextLine[5]);
                 longitude = Double.parseDouble(nextLine[6]);
                 
-                if ((longitude >= longleft) && (longitude <= longright) && (latitude >= latlower) && (latitude <= latupper))
+                if (
+                        ((longitude >= longleft) && (longitude <= longright)) && 
+                        ((latitude >= latlower) && (latitude <= latupper)))
                 {
                     String name = nextLine [2];
+                    
+                    System.out.println ("Longitude = " + longitude +"  Latitude = " + latitude);
                     weatherstinrange.add(name);
-                }        
+                } 
+                
+                
+                
+                double dist = 0;
+                /*
+                    Haversine
+                    formula:	a = sin²(Δφ/2) + cos φ1 ⋅ cos φ2 ⋅ sin²(Δλ/2)
+                    c = 2 ⋅ atan2( √a, √(1−a) )
+                    d = R ⋅ c
+                    where	φ is latitude, λ is longitude, R is earth’s radius (mean radius = 6,371km);
+                    note that angles need to be in radians to pass to trig functions!                
+                */
+                double r = 6371;
+                double radLatCentroid = Math.toRadians(loc.latitude);
+                double radLongCentroid = Math.toRadians(loc.longitude); 
+                
+                double radPoint = Math.toRadians(latitude);
+                
+                //double  a = 
+                
+                
             }            
         } catch (IOException e) {
             e.printStackTrace();

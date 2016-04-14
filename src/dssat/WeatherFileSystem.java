@@ -106,7 +106,13 @@ public class WeatherFileSystem extends BaseFileSystem{
              writeBuffer = new String ("@DATE  SRAD  TMAX  TMIN  RAIN  DEWP  WIND  PAR");
              pr.println(writeBuffer);
              writeBuffer = new String ();
-
+             
+             /*Bring the Weather details for last 10 Years and write the details to the WTH File. */
+               try {
+			String urlStr="http://fawn.ifas.ufl.edu/scripts/fawndataserver.asp?sql=select%20datePart(yy,datetime)"+
+			"%20AS%20Year,%20FLOOR(AVG(soiltempavg)*100)/100%20as%20'SoilTYearlyAvg',count(soiltempavg)%20"+
+			"as%20'soilTCount'%20from%20weather%20where%20"+queryID+"%20and%20(datetime%20between%20'01/1/2004'"+
+			"%20and%20'12/31/2005')%20GROUP%20BY%20datePart(yy,datetime)%20ORDER%20BY%20datePart(yy,datetime)";
              /*DBConnect weather_historic_daily = new DBConnect (ServerDetails.SERVER_NUM_RONLY, ServerDetails.weather_historic_daily_dbname);
              StringBuilder query = new StringBuilder (
                                     "SELECT * FROM FAWN_historic_daily_20140212 " +
